@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: free-xueq-jianb/free-xueq-jianb.github.io
   branch: main # Branch to update (optional; defaults to master)
 # This line should *not* be indented
 publish_mode: editorial_workflow
