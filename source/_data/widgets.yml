@@ -5,6 +5,9 @@ welcome:
     - '独立记者黄雪琴、职业病权益倡导者王建兵于9月19日下午失联，目前未知身在何处。王建兵可能被以“煽动颠覆国家政权罪”拘留，主要原因或是他在家里和朋友的聚会。'
     - '目前，国内外许多媒体、关心公共议题的人以及雪饼的朋友都已经在关注着事情的进展。我们希望持续的关注能够让黄雪琴和王建兵尽快获得自由。'
     - '本站将收集、提供关于二人的最新消息，欢迎来稿 freexqjb@gmail.com '
+    - '[媒体报道](https://free-xueq-jianb.github.io/categories/%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93/)'
+    - '[案件通报](https://free-xueq-jianb.github.io/categories/%E6%A1%88%E4%BB%B6%E9%80%9A%E6%8A%A5/)'
+    - '[雪饼的朋友心声](https://free-xueq-jianb.github.io/categories/%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93/)'
 recent:
   layout: recent
   rss: /sitemap.xml # npm i hexo-generator-feed
