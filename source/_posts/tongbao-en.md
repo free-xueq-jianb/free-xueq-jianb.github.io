@@ -1,8 +1,12 @@
 ---
-title: 【Case Updates】Guangzhou-based labor and women’s rights activists go missing
-date: 2021-09-20 13:33:42
-categories: [案件通报]
-tags: [失联,English]
+title: 【09/20 Case Updates】Guangzhou-based labor and women’s rights activists go
+  missing
+date: 2021-09-20T14:33:00.000Z
+categories:
+  - 案件通报
+tags:
+  - 失联
+  - English
 ---
 
 Chinese investigative journalist and #MeToo activist Sophia Huang Xueqin and workers’ rights advocate Wang Jianbing went missing in Guangzhou on Sunday, Sept. 19, with their friends fearing detention.
