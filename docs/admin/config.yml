@@ -14,9 +14,9 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Cover Image", name: "cover", widget: "image"}
-      - {label: "Category", name: "categories", widget: "list"}
-      - {label: "Tag", name: "tags", widget: "list"}
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "发布日期", name: "date", widget: "datetime"}
+      - {label: "封面图片（选填）", name: "cover", widget: "image", required: false}
+      - {label: "类别（媒体报道、案件通报、雪饼的朋友心声）", name: "categories", widget: "list"}
+      - {label: "标签（中间用英文逗号分隔）", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
