@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  branch: main # Branch to update (optional; defaults to master)
 # This line should *not* be indented
 publish_mode: editorial_workflow
 # This line should *not* be indented
@@ -16,6 +16,6 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Cover Image", name: "cover", widget: "image"}
-      - {label: "Category", name: "categories", widget: "string"}
-      - {label: "Tag", name: "tags", widget: "string"}
+      - {label: "Category", name: "categories", widget: "list"}
+      - {label: "Tag", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
