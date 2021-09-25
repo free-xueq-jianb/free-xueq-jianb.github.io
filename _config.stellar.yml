@@ -1,0 +1,7 @@
+sidebar:
+  logo:
+    title: '<p style="font-size:1.7rem;margin: 0em;"><a class = "title" href="/">关注雪饼:<br>黄雪琴 王建兵</a></p><p style="margin: 0em;"><a class = "title" href="/" style="font-size:1.3rem;">Free Huang XueQin & Wang JianBing</a></p>'
+  menu:
+    post: '[btn.blog](/)'
+    wiki: '[雪饼简介](/self/)'
+    notes: '[链接](/links/)'
