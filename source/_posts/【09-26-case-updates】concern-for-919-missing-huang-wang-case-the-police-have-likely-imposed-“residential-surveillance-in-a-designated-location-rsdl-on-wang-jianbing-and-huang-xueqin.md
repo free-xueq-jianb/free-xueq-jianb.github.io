@@ -1,0 +1,39 @@
+---
+layout: post
+title: '【09/26 Case Updates】Concern for 919 missing "Huang & Wang" case: The
+  police have likely imposed  “Residential surveillance in a designated location
+  (RSDL)"on  Wang Jianbing and Huang Xueqin.'
+date: 2021-09-26T12:30:13.134Z
+categories:
+  - 案件通报
+tags:
+  - English
+---
+Women’s rights journalist Huang Xueqin and occupational disease rights advocate Wang Jianbing (nicknamed “Pancake”) were found to be missing at the same time on September 19th. The two originally planned to go to Shenzhen from Guangzhou on September 20th. Huang had planned to depart from the Hong Kong airport by entering HK border through the Shenzhen port, whereas Wang was simply to see her off.  Multiple sources confirmed that Guangzhou police are currently holding both Huang and Wang in police custody. Huang and Wang were suspected to be detained for the charge of "inciting subversion of state power". The police have likely imposed “residential surveillance in a designated location (RSDL) " on both of them. Sources revealed that the police likely based their suspicion of the two solely on the weekly gatherings in Wang Jianbing's place. Both Huang and Wang have been missing for over a week as of today.
+
+<!--more-->
+
+## Case details
+
+Sources revealed that at around 3pm on September 19, the Guangzhou police took Wang Jianbing and Huang Xueqin, who was leaving to study overseas, in Wang Jianbing's rented apartment (located at Xingang West Road, Haizhu District, Guangzhou) by force, and confiscated their personal belongings.
+
+Meanwhile, a rented apartment located in ChangZhou in Huangpu District of Guangzhou used by a friend of Wang Jianbing for storage was broken in and searched unlawfully by the police in the afternoon of September 20th. A number of personal belongings and items were taken by the police as a result.
+
+Multiple sources were able to confirmed that the main reason for Huang and Wang’s detention may be connected to the weekly friendly gatherings in Wang's place. From September 19 to September 25, Guangzhou police have unlawfully taken some of the people who used to attend the gatherings at Wang Jianbing (Pancake)’s place into the police station. The police have asked them to corroborate the police’s theory of Huang and Wang being the organizers of political discussions and activities. These people were each held by the police for 24 hours of questioning.
+
+All of the police’s theories and allegations of Huang and Wang were completely false. According to those who have attended the gatherings at Wang Jianbing's place, Pancake is someone that is kind-hearted and selfless. The gatherings were casual in nature, as people felt safe to share about their weeks and receive emotional support from each other. The police’s allegation that Huang and Wang were plotting to commit the crime of “inciting subversion of state power” at these friendly gatherings isn’t just completely unfounded, but also unfathomable and outrageous. 
+
+It has been nearly a week since their disappearance. The police refused to reveal any information about Huang and Wang to their families and friends. It became evident that the two were not detained in any detention centers in Guangdong Province. The whereabouts of the two who were suspected to be kept under “residential surveillance in a designated location” is not known to families and friends, nor are the states of their physical and mental well-beings.
+
+Families and friends of Huang and Wang strongly demand the police to disclose informations regarding their detention and release them as soon as possible! In the meantime, we demand that the police to stop the unlawful detentions and interrogations of Huang and Wang’s acquaintances at once!
+
+
+## Wang and Huang’s bios
+
+Wang Jianbing (Pancake). Born in 1983 in Tianshui, Gansu Province. Independent activist. He has been involved in non-profit work for over 16 years . His friends prefer to call him "pancake" as his nickname. After graduating from university in 2005, he joined the Beijing Western Sunshine Rural Development Foundation and ran rural development projects, which kicked off his career as a non-profit worker who cares deeply about the education and development of the youth. He was the project manager of rural education program at Western Sunshine Foundation for 5 years.  In 2014, He joined GongMing Institute of Social Organization and Development in Guangzhou as the project manager and coordinator of the youth development project as well as the disabled community empowerment project. Since 2018, he has been undertaking rights advocacy and service work for workers with occupational diseases, such as pneumoconiosis, providing necessary legal support for them. Wang also participated in supporting the #MeToo movement in China.
+
+Huang Xueqin, born in 1988 in Shaoguan, Guangdong Province. Independent journalist. She worked as an investigative journalist for News Express and Southern Metropolis Weekly, . She wrote on topics related to gender, equal rights, government corruption, corporate pollution, and other marginalized groups. She has also participated in many #MeToo cases and campaigns to provide support and assistance to victims in sexual assault and harassment cases. Huang Xueqin had planned to go to the University of Hong Kong to obtain a Master’s degree in Law in 2019. Her study plan was disrupted when she was abruptly detained by the Guangzhou police on October 17th, 2019 for the charge of “picking quarrels and provoking trouble”. She was later moved to a different location for residential surveillance in a designated location (RSDL) until she was released under supervision on January 17th, 2020. She had received full scholarship for her master’s studies from Chevening Scholarship earlier this year. She was planning to leave for the UK to begin her master’s degree in Gender and Development at University of Sussex on September 20th.
+
+## Press Contact
+
+Please send mail to freexuebing@protonmail.com
