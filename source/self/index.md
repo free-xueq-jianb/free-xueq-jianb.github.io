@@ -10,7 +10,7 @@ Born in 1983 in Tianshui, Gansu Province. Independent activist. He has been invo
 
 ![](https://i.imgur.com/ewDQqlB.jpg)
 
-## 黄雪琴 Huang Xueqin,
+## 黄雪琴 Huang Xueqin
 
 1988年生，广东韶关人，独立记者，曾任《新快报》及《南都周刊》的调查记者，关注性别、平权、官员贪污、企业污染、弱势群体等议题，也参与多起#MeToo案件的报道和为性侵害性骚扰受害人提供帮助和支持。黄雪琴本计划于2019年赴香港大学就读法学硕士，但后于2019年10月17日被广州警方以“寻衅滋事罪”刑事拘留，后改指定居所监视居住至2020年1月17日取保获释。今年秋，成功获得英国志奋领奖学金支持，原计划于9月20日前往萨塞克斯大学（University of Sussex）就读性别与发展学硕士。
 
