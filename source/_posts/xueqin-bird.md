@@ -1,9 +1,10 @@
 ---
-title: 【雪饼加油】雪琴，我的鸟已经学会飞
+title: 【雪饼加油】雪琴，我的鸟已经学会飞了
 date: 2021-09-27 10:51:32
 cover: https://i.imgur.com/qZow6RO.png
-categories: [雪饼的朋友心声]
-tags:
+categories:
+  - 雪饼的朋友心声
+tags: null
 ---
 
 ![](https://i.imgur.com/qZow6RO.png)
