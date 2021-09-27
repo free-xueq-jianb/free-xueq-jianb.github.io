@@ -6,6 +6,8 @@ categories: [雪饼的朋友心声]
 tags:
 ---
 
+![](https://i.imgur.com/qZow6RO.png)
+
 雪琴被捕时，我已经好几个星期没跟她联系了。
 
 <!--more-->
