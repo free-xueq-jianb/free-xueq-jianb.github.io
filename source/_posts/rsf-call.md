@@ -3,12 +3,15 @@ layout: post
 title: 【报道】无国界记者呼吁中国当局释放调查记者黄雪琴 RSF calls for release of Chinese investigative
   journalist, Huang Xueqin
 date: 2021-09-29T13:25:20.737Z
+cover: https://i.imgur.com/k8p9wZ3.png
 categories:
   - 媒体报道
 tags:
   - English
   - 组织声援
 ---
+![](https://i.imgur.com/k8p9wZ3.png)
+
 无国界记者组织（RSF）呼吁中国当局立即释放调查记者黄雪琴，黄上周在广州市被捕并被单独关押。
 
 <!--more-->
