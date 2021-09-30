@@ -5,3 +5,5 @@
 墙内传播：https://github.com/free-xueq-jianb/free-xueq-jianb.github.io/tree/main/source/_posts
 
 访问网站：https://free-xueq-jianb.github.io/
+
+释放雪琴、释放煎饼！
