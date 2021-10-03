@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【10/04 案件通报】关注919“雪&饼”被捕事件｜警方：“人是广州市公安局抓的，但不会告知罪名也不会给通知书”
-date: 2021-10-04T07:57:26.984Z
+date: 2021-10-04T09:57:26.984Z
 cover: https://i.imgur.com/EdAc00D.jpg
 categories:
   - 案件通报
