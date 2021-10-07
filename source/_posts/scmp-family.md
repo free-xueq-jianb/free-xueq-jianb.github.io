@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【報道】SCMP: China’s missing #MeToo and labour activist pair held by
+title: "【报道】SCMP: China’s missing #MeToo and labour activist pair held by
   police, family told"
 date: 2021-10-06T01:15:08.898Z
 cover: https://i.imgur.com/G6Omv8H.jpg
