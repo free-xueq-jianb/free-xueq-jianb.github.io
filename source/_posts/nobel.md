@@ -28,6 +28,8 @@ cover: https://i.imgur.com/sxFth95.png
 
 请问，这颠覆了什么？
 
+[【10/04 案件通报】关注919“雪&饼”被捕事件｜警方：“人是广州市公安局抓的，但不会告知罪名也不会给通知书”](/2021/10/04/1004report/)
+
 [网站｜关注雪饼:黄雪琴 王建兵 Free Huang XueQin & Wang JianBing](https://freexqjb.netlify.app/)
 
 [脸书专页｜Freexueqin黄雪琴&Jianbing王建兵](https://www.facebook.com/Freexueqinjianbing)
