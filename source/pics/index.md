@@ -6,7 +6,7 @@ title: 声援雪饼图宣集
 
 ![](https://i.imgur.com/rdwnKL6.jpg)
 
-[完整30天时间线图片下载](https://i.imgur.com/Ua04g6s.jpg)
+[完整30天时间线图片下载](https://i.imgur.com/lPs5lbO.png)
 
 ![](https://i.imgur.com/jCSHubN.png)
 
