@@ -4,6 +4,10 @@ title: 声援雪饼图宣集
 
 > 下方图宣皆可使用，请协助传播于社交媒体。
 
+![](https://i.imgur.com/rdwnKL6.jpg)
+
+[完整30天时间线图片下载](https://i.imgur.com/Ua04g6s.jpg)
+
 ![](https://i.imgur.com/jCSHubN.png)
 
 ![](https://i.imgur.com/GxwbP4N.png)
