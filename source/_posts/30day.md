@@ -14,7 +14,7 @@ categories:
 
 <!--more-->
 
-## 雪饼被抓30天事件梳理 ([图片版](https://i.imgur.com/Ua04g6s.jpg))
+## 雪饼被抓30天事件梳理 ([图片版](https://i.imgur.com/8m1J3Av.jpg))
 
 * 【9月19日】下午3点前后，广州警方于王建兵出租屋中（位于广州海珠区新港西路）强行将王建兵和即将出国留学的黄雪琴一同抓走，并查抄了两人的私人财物。
 
@@ -38,9 +38,7 @@ categories:
 
 *作为“雪饼”的亲友，我们迫切需要更广泛的对黄雪琴与王建兵的关注！*
 
-![](https://i.imgur.com/BX2xz2k.jpg)
-
-[下载高清原图](https://i.imgur.com/Ua04g6s.jpg)
+![](https://i.imgur.com/8m1J3Av.jpg)
 
 ## “雪饼”简介
 
