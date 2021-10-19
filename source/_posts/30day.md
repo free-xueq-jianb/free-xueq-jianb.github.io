@@ -14,7 +14,7 @@ categories:
 
 <!--more-->
 
-## 雪饼被抓30天事件梳理 ([图片版](https://i.imgur.com/lPs5lbO.png))
+## 雪饼被抓30天事件梳理 ([图片版](https://i.imgur.com/eYMdtDm.png))
 
 * 【9月19日】强迫失联
 
@@ -52,7 +52,7 @@ categories:
 
 *作为“雪饼”的亲友，我们迫切需要更广泛的对黄雪琴与王建兵的关注！*
 
-![](https://i.imgur.com/lPs5lbO.png)
+![](https://i.imgur.com/eYMdtDm.png)
 
 ## “雪饼”简介
 
