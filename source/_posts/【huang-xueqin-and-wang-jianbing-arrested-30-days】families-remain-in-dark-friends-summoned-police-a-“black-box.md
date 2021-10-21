@@ -8,9 +8,9 @@ categories:
 tags:
   - English
 ---
-Huang Xueqin and Wang Jianbing Arrested 30 Days: Families Remain in Dark, Friends Summoned, Police a “Black Box"
-
 It has been 30 days since Huang Xueqin and Wang Jianbing were secretly arrested by the Guangzhou police, but neither family nor friends have received information about them. As their friends, we can only speak out for them online. We hope to inform everyone who cares about these two individuals, about Chinese society and about human rights, that they are probably being held under 24-hour surveillance in secret, solitary confinement, and subject to interrogation under torture.
+
+<!--more-->
 
 We don't have details about what they have suffered over the past 30 days, only that the operations of police continue to be a black box, that the families' efforts have been consistently futile, and that their friends continue to be summoned for interrogation by the police.
 
