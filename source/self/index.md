@@ -19,3 +19,19 @@ Born in 1988 in Shaoguan, Guangdong Province. Independent journalist. She worked
 ![王建兵](https://i.imgur.com/SAkkUJK.jpg)
 
 ![黄雪琴](https://i.imgur.com/LJ89O4t.png)
+
+## 雪饼生活照
+
+![](https://i.imgur.com/XC4yk3E.png)
+
+![](https://i.imgur.com/jR2zFkF.png)
+
+![](https://i.imgur.com/Y8SBxz8.png)
+
+![](https://i.imgur.com/J87OZhH.png)
+
+![](https://i.imgur.com/iZwjo0H.png)
+
+![](https://i.imgur.com/ZxA4vBx.png)
+
+![](https://i.imgur.com/Orla6Bo.jpg)
