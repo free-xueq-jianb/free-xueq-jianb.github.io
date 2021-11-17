@@ -24,7 +24,7 @@ Her life hadn’t come back to normal, even thoguh she had been released on bail
 
 One day when she was walking her dog, she discovered a CCTV was newly installed on the rubbish classification station near the stair entrance of her apartment. Then she walked around 20 other rubbish classification stations in the community, finding out that it only existed in that one under her building. Evidently, this CCTV was targeting at her. 
 
-> Huang Xueqin made a decision: she would smash this CCTV on a storm day. 
+## Huang Xueqin made a decision: she would smash this CCTV on a storm day. 
 
 This idea cheered her friends up. As the journalist who unveiled Chinese #MeToo movement by reports, Xueqin had been using peaceful and rational ways to strive for social justice: she did independent investigation report, wrote about social injustices, provided resources for victims to strive for their rights, started collective petitions, made public speech and organised trainings. These activities seemed mild in her friends’ eyes. Therefore, when she said that she would violently smash the CCTV, they immediately supported her idea and even help her to came up with a wide range of ways to smash it.
 
@@ -32,9 +32,7 @@ The storm days came and left. In the end, Xueqin selected a more Xueqin-style w
 
 The next day, when Xueqin was going to read a poem under the CCTV, she found out that it had been removed. Xueqin shared the stroy on her social media, with the hashta #Protestworks (#抗争有用)
 
-> 做记者履行监督权，“就像呼吸一般自然”
-
-> Being a journalist to practice the right of public supervision is as natural as breathing
+## Being a journalist to practice the right of public supervision is as natural as breathing
 
 Being a activist, was not a role that chosen by Huang Xueqin in the beginning. She used to be a member of state-owned media and believed in institutional reforms. She used to actively write and propose suggestions for it.
 
@@ -58,8 +56,7 @@ Huang Xueqin believes in the importance of independent records. She believes tha
 
 This photo was taken when Huang Xueqin was invited to have a talk in a special TV program by CCTV Chinese Voices and Tencent News: Listen to Me. She talked about her personal stories of being sexually harassed in this program. After she was detained in 2019, this video was censored. Her appearance on internet was erased. Photo: provided by the author.
 
-> 原来不用依靠一个机构，也能做独立调查
-> I can do independent investigation without an institution
+## I can do independent investigation without an institution
 
 In August 2015, a container storage in the port of Tianjin explored due to inappropriate storage of dangerous chemical materials, which killed 165 people and injured 798 people. Among those people who died from the explosion, 99 of them were fire fighters.
 
@@ -77,8 +74,7 @@ Later on, Xueqin went to Cambodia and visited landmine villages. She visited tho
 
 Apart from these reports,  Huang Xueqin was further known by Chinese society because of her independent investigations on sexual violence and promotion of Chinese #MeToo movement.
 
-> 意外成为中国#MeToo运动标志性人物之一
-> Becoming an unexpected #MeToo icon in China
+## Becoming an unexpected #MeToo icon in China
 
 In October 2017, American actress Alyssa Milano encouraged women to come forward with their experiences of sexual assault using the hashtag “#MeToo.” The campaign made people realize the prevelance of sexual assault, thereby igniting the #MeToo movement around the world. Huang Xueqin was in Singapore, participating in a scholarship program for Asian journalists. After speaking about sexual harassment with other journalists, she realized that the majority of them had been harassed, while all but remaining silent.
 
@@ -106,8 +102,7 @@ It was long before an actual mechanism could be established. But Anne said Huang
 
 Her optimism was exemplified in her life. Once Xueqin was traveling with friends and their car broke down in the middle of the night, leaving them with nothing to eat and nowhere to stay. When everyone was upset, Xueqin exclaimed: “Wow! Look at the starry sky!”
 
-> 不能出去读书，就继续做记录和行动
-> Since I cannot study in Hong Kong, I should just continue documenting and advocating.
+## Since I cannot study in Hong Kong, I should just continue documenting and advocating.
 
 Her optimism lasted even after her family and herself beginning to be harassed by the police. September 2019 was supposed to be the time when Huang Xueqin went to the University of Hong Kong for her master's degree in law. However, shortly before that, she was detained for 24 hours by the Guangdong Guobao, who confiscated her passport and stopped her from studying in Hong Kong. The reason for her detention was the article she published on Hong Kong's Anti-Extradition Law Amendment Bill Movement.
 
@@ -125,8 +120,7 @@ All of these people have given Huang Xueqin consolation and strength. She also f
 
 It was possible that she could take a break in 2019. Huang Xueqin visited the University of Hong Kong before her official enrollment. No one expected that the Anti-Extradition Law Amendment Bill Movement would break out at this time.
 
-> “亲身经历了，就不能假装无知”
-> After experiencing all of these I could not just turn away 
+## After experiencing all of these I could not just turn away 
 
 On June 9th, more than 1 million Hong Kong people paraded on the streets and carried out peaceful demonstrations to oppose the amendment to the Extradition Law Amendment Bill. In the historical scene of the social movement, Huang Xueqin joined the initial parade with the journalist mission of ’voicing, participating, witnessing and recording’.
 
@@ -156,9 +150,7 @@ This game of intrigue has begun. Some groups chose to cheat and deceive to win. 
 
 For Huang Xueqin, staying sensitive to pain and anger makes her a better journalist in this absurd time.
 
-
-> “哪有记者不发声”
-> How could a journalist keep silent
+## How could a journalist keep silent
 
 After being released on bail, Huang Xueqin had nightmares once a while. Once she dreamed that she was put in prison again. There was a tyrant in her dream. For some reason this tyrant was angry and wanted to cook the prisoners to eat, but he felt prisoners was too humble, so he cooked a minister instead. When he ate the finger he found there was a ring left on it. The tyrant was furious and wanted to continue eating people. Xueqin was shocked and angry in her dream that she wanted to denounce the tyrant, but her family muffled her mouth and said ‘Since it's not you who are being eaten, please don't worry about it, keep silence’. Xueqin woke up from the dream and thought of those citizen journalists who were disappeared including Zhang Zhan, Chen Qiushi and Li Zehua.
 
