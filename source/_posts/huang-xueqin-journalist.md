@@ -179,3 +179,9 @@ I asked, what is your role in it?
 She answered without hesitation, ‘I am the recorder. I will take my pen and my lens to record how each flower grows, blooms, and withers’. Then she added to, ‘Of course I myself will bloom too’.
 
 All interviewees are pseudonyms except for Huang Xueqin.
+
+[Chinese version](https://ngocn2.org/article/2021-10-26-huang-xue-qin/)
+
+翻译：小雷、AI、44、LK
+校对：Lee、Hua
+
