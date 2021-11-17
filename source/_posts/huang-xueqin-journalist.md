@@ -2,7 +2,7 @@
 layout: post
 title: "Huang Xueqin: “How Could a Journalist Keep Silent”"
 date: 2021-11-17T05:18:38.562Z
-cover: https://i.imgur.com/EJtXf4j.png
+cover: https://i.imgur.com/kRFWG9D.png
 categories:
   - 媒体报道
 tags:
