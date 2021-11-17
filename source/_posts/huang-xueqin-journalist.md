@@ -24,7 +24,7 @@ Her life hadn’t come back to normal, even thoguh she had been released on bail
 
 One day when she was walking her dog, she discovered a CCTV was newly installed on the rubbish classification station near the stair entrance of her apartment. Then she walked around 20 other rubbish classification stations in the community, finding out that it only existed in that one under her building. Evidently, this CCTV was targeting at her. 
 
-## Huang Xueqin made a decision: she would smash this CCTV on a storm day. 
+Huang Xueqin made a decision: she would smash this CCTV on a storm day. 
 
 This idea cheered her friends up. As the journalist who unveiled Chinese #MeToo movement by reports, Xueqin had been using peaceful and rational ways to strive for social justice: she did independent investigation report, wrote about social injustices, provided resources for victims to strive for their rights, started collective petitions, made public speech and organised trainings. These activities seemed mild in her friends’ eyes. Therefore, when she said that she would violently smash the CCTV, they immediately supported her idea and even help her to came up with a wide range of ways to smash it.
 
