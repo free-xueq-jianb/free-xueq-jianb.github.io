@@ -13,10 +13,6 @@ tags:
 ---
 由王建兵家属委托的贵州萧云阳律师日前向广州警方申请会见和取保候审；11月19日获知，办案机关均拒绝了相关申请。而家属此前亦多次尝试给关押中的建兵汇款，都显示失败。家属呼吁广州公安允许律师会见王建兵，确认他是否真的在看守所以及健康状况。(English at the Bottom)
 
-![](https://i.imgur.com/PigyI2s.png)
-
-![](https://i.imgur.com/jPaWugq.jpg)
-
 <!--more-->
 
 ### 这是家属的呼吁：
@@ -40,4 +36,8 @@ On Oct. 16, 2021, our family entrusted Lawyer Xiao Yunyang to defend Wang Jianbi
 We do not believe that Jianbing has done anything that violates any laws and regulations, so we ask Lawyer Xiao to request a visit with Jianbing and apply for bail. On Nov. 19, 2021, Lawyer Xiao told us that the case handling agency approved neither the lawyer’s visit request nor the bail application.
 
 Jianbing has been imprisoned for more than two months. Nor being allowed to see him frustrates our whole family! We have tried many times to remit money to Jianbing, who is supposed to be at the No. 1 Detention Center in Guangzhou, through the online detention remittance system-"Guangdong Provincial Affairs". However, it has been shown that "the review failed" countless times. Now we don't even know if Jianbing is really in the detention center (because of the failed remittance). What is his current state? Whether he is in a good health condition? We really hope that the Guangzhou Public Security Bureau can approve the lawyer's visit application. Our family is really anxious NOW!
+
+![](https://i.imgur.com/PigyI2s.png)
+
+![](https://i.imgur.com/jPaWugq.jpg)
 
