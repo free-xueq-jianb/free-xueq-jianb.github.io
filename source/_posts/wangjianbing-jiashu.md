@@ -15,8 +15,7 @@ tags:
 
 <!--more-->
 
-**(Please scroll down for English version
-)**
+**(Please scroll down for English version)**
 
 ### 这是家属的呼吁：
 
