@@ -3,7 +3,7 @@ layout: post
 title: "【案件更新】王建兵被拒绝会见和取保候审 #WangJianbing’s Application for Lawyer Visit and
   Bail DENIED"
 date: 2021-11-21T05:23:21.730Z
-cover: https://i.imgur.com/jPaWugq.jpg
+cover: https://i.imgur.com/sEV3Rhc.png
 categories:
   - 案件通报
 tags:
@@ -11,9 +11,12 @@ tags:
   - 家属
   - English
 ---
-由王建兵家属委托的贵州萧云阳律师日前向广州警方申请会见和取保候审；11月19日获知，办案机关均拒绝了相关申请。而家属此前亦多次尝试给关押中的建兵汇款，都显示失败。家属呼吁广州公安允许律师会见王建兵，确认他是否真的在看守所以及健康状况。(English at the Bottom)
+由王建兵家属委托的贵州萧云阳律师日前向广州警方申请会见和取保候审；11月19日获知，办案机关均拒绝了相关申请。而家属此前亦多次尝试给关押中的建兵汇款，都显示失败。家属呼吁广州公安允许律师会见王建兵，确认他是否真的在看守所以及健康状况。
 
 <!--more-->
+
+**(Please scroll down for English version
+)**
 
 ### 这是家属的呼吁：
 
