@@ -28,3 +28,7 @@ Chevening is one of the most influential scholarships in the world that enshrine
 Last but not least, we urge the Chinese authorities to immediately disclose their whereabouts and unconditionally release Huang Xueqin and Wang Jianbing.
 
 [Full Version of Statement Download (Including Cosignatory List)](https://github.com/free-xueq-jianb/free-xueq-jianb.github.io/raw/main/docs/A%20Joint%20Statement%20in%20Support%20of%20Huang%20Xueqin%20and%20Wang%20Jianbing%201206.pdf)
+
+[中文新闻稿下载]()
+
+[English Press Release]()
