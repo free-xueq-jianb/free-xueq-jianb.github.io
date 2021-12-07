@@ -12,8 +12,11 @@ date: 2021-12-07T15:52:48.971Z
 - Urge the Chinese authorities to immediately disclose their whereabouts and unconditionally release Huang Xueqin and Wang Jianbing
 
 Dear Foreign, Commonwealth and Development Office (FCDO) and the Chevening Leadership team,
+
 I have the honour of delivering this joint statement on behalf of 112 Chevening scholars (Chevenors).
+
 We are gravely concerned about the human rights situation of the arbitrary and incommunicado detention of Huang, Xueqin and her fellow, Wang Jianbing.
+
 Huang, Xueqin is a Chevening Scholar from China who planned to travel to the UK to commence postgraduate studies at the University of Sussex in this September. She is a leading #Metoo activist and an independent investigative journalist in China.
 
 A joint statement in support of Huang Xueqin, a #Metoo activist, independent journalist and a 2021/22 Chevening scholar from China, and her fellow, Wang Jianbing Credible information released on international media and the Facebook fan page “Free Xueqin and Jianbing” indicates that Huang Xueqin, together with her friend, Wang Jianbing, were secretly arrested by the police of Guangzhou city, China Guangdong province on 19 September this year and remain incommunicado since they were forcibly disappeared.
@@ -24,4 +27,8 @@ Chevening is one of the most influential scholarships in the world that enshrine
 
 Last but not least, we urge the Chinese authorities to immediately disclose their whereabouts and unconditionally release Huang Xueqin and Wang Jianbing.
 
-[Full Version of Statement Download (Including Cosignatory List)](https://free-xueq-jianb.github.io/A%20Joint%20Statement%20in%20Support%20of%20Huang%20Xueqin%20and%20Wang%20Jianbing%201206.pdf)
+[Full Version of Statement Download (Including Cosignatory List)](https://github.com/free-xueq-jianb/free-xueq-jianb.github.io/raw/main/docs/A%20Joint%20Statement%20in%20Support%20of%20Huang%20Xueqin%20and%20Wang%20Jianbing%201206.pdf)
+
+[中文新闻稿下载](https://github.com/free-xueq-jianb/free-xueq-jianb.github.io/raw/main/docs/%E6%96%B0%E8%81%9E%E7%A8%BF%EF%BC%9A%E8%8B%B1%E5%9C%8BChevening%E5%BF%97%E5%A5%AE%E9%A0%98%E7%8D%8E%E5%AD%B8%E9%87%91%E7%A4%BE%E7%BE%A4%E5%85%A8%E7%90%83%E9%80%A3%E7%BD%B2%E8%81%B2%E6%8F%B4.docx)
+
+[English Press Release](https://github.com/free-xueq-jianb/free-xueq-jianb.github.io/raw/main/docs/20211208%20press_Xuebing.docx)
