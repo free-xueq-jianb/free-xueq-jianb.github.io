@@ -116,7 +116,8 @@ This letter was published on December 8 (GMT+8) on the official website for the 
 
 
 
-感謝您的關注與時間，敬請持續追蹤本案並協助曝光，讓捍衛言論自由的記者與NGO人士
+感謝您的關注與時間，敬請持續追蹤本案並協助曝光，讓捍衛言論自由的記者與NGO人士人士早日回家。
+
 
 Thank you for your attention and time, please continue to follow and shed light on this case, so that journalists and NGO activists who defend freedom of speech can go home soon.
 
