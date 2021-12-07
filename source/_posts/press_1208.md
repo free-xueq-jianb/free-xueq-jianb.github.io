@@ -10,7 +10,7 @@ tags:
   - 联署
   - 行动
 ---
-**主旨**：2021年國際人權日前夕，英國Chevening志奮領獎學金社群，發布全球連署成果，聲援失聯的中國女權記者黃雪琴與職業病權益倡導者王建兵（又稱：「0919雪餅案」）。
+**主旨**：2021年國際人權日前夕，英國Chevening志奮領獎學金社群，發布[全球連署成果](https://free-xueq-jianb.github.io/A%20Joint%20Statement%20in%20Support%20of%20Huang%20Xueqin%20and%20Wang%20Jianbing%201206.pdf)，聲援失聯的中國女權記者黃雪琴與職業病權益倡導者王建兵（又稱：「0919雪餅案」）。
 
 Right before the 2021 International Human Rights Day, the community of UK's Chevening Scholarship Alumni released a joint letter to express solidarity with detained Chinese feminist journalist Huang Xueqin and her friend, an occupational disease activist, Wang Jianbing
 
