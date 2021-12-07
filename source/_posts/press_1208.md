@@ -120,3 +120,10 @@ This letter was published on December 8 (GMT+8) on the official website for the 
 
 Thank you for your attention and time, please continue to follow and shed light on this case, so that journalists and NGO activists who defend freedom of speech can go home soon.
 
+
+
+[聯署信下載 Full Version of Statement Download (Including Cosignatory List)](https://free-xueq-jianb.github.io/A%20Joint%20Statement%20in%20Support%20of%20Huang%20Xueqin%20and%20Wang%20Jianbing%201206.pdf)
+
+[中文新闻稿下载](https://github.com/free-xueq-jianb/free-xueq-jianb.github.io/raw/main/docs/%E6%96%B0%E8%81%9E%E7%A8%BF%EF%BC%9A%E8%8B%B1%E5%9C%8BChevening%E5%BF%97%E5%A5%AE%E9%A0%98%E7%8D%8E%E5%AD%B8%E9%87%91%E7%A4%BE%E7%BE%A4%E5%85%A8%E7%90%83%E9%80%A3%E7%BD%B2%E8%81%B2%E6%8F%B4.docx)
+
+[English Press Release](https://github.com/free-xueq-jianb/free-xueq-jianb.github.io/raw/main/docs/20211208%20press_Xuebing.docx)
