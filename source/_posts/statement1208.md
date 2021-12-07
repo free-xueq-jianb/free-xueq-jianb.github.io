@@ -22,7 +22,7 @@ We are gravely concerned about the human rights situation of the arbitrary and i
 
 Huang, Xueqin is a Chevening Scholar from China who planned to travel to the UK to commence postgraduate studies at the University of Sussex in this September. She is a leading #Metoo activist and an independent investigative journalist in China.
 
-A joint statement in support of Huang Xueqin, a #Metoo activist, independent journalist and a 2021/22 Chevening scholar from China, and her fellow, Wang Jianbing Credible information released on international media and the Facebook fan page “Free Xueqin and Jianbing” indicates that Huang Xueqin, together with her friend, Wang Jianbing, were secretly arrested by the police of Guangzhou city, China Guangdong province on 19 September this year and remain incommunicado since they were forcibly disappeared.
+Credible information released on international media and the Facebook fan page “Free Xueqin and Jianbing” indicates that Huang Xueqin, together with her friend, Wang Jianbing, were secretly arrested by the police of Guangzhou city, China Guangdong province on 19 September this year and remain incommunicado since they were forcibly disappeared.
 
 We express our utmost concern over the arbitrary arrest and detention of Chevenor Huang Xueqin as it seems to be only aimed at punishing her and her fellow for their legitimate human rights activities.
 
@@ -73,13 +73,19 @@ Last but not least, we urge the Chinese authorities to immediately disclose thei
 <table>
 <thead>
   <tr>
-    <th>&nbsp;&nbsp;&nbsp;<br>1&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Eugenia Lee&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>1995/1996&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Taiwan&nbsp;&nbsp;&nbsp;</th>
+    <th>NO.</th>
+    <th>Name</th>
+    <th>Chevening Year</th>
+    <th>Country</th>
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>1&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Eugenia Lee&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>1995/1996&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Taiwan&nbsp;&nbsp;&nbsp;</td>
+  </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Pingyuan Edward Lu&nbsp;&nbsp;&nbsp;&nbsp;</td>
