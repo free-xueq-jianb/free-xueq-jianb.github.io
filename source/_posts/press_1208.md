@@ -76,7 +76,7 @@ The open letter requests the Chevening Scholarship, which is affiliated to the F
 
 此連署已於2021年12月8日公開在本案件官方網站、twitter以及其臉書粉絲專頁「Freexueqin黄雪琴&Jianbing王建兵」。同時，已於此前透過英國外館寄發至英國外交部與志奮領獎學金秘書處，目前尚無收到任何回應。
 
-This letter was published on December 8 (GMT+8) on the official website for the "0919 Xuebing case," as well as on Twitter and the Facebook page "Free Xueqin & Jianbing." Meanwhile, the letter has been sent to the FCDO and the Chevening Secretariat. No response has been received form them yet.
+This letter was published on December 8 (GMT+8) on the official website for the "0919 Xuebing case," as well as on Twitter and the Facebook page "Free Xueqin & Jianbing." Meanwhile, the letter has been sent to the FCDO and the Chevening Secretariat. No response has been received from them yet.
  
 
 
