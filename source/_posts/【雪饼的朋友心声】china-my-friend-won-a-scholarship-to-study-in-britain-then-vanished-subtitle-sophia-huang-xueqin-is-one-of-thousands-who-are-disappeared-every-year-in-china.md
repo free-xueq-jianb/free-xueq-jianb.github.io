@@ -6,6 +6,8 @@ title: "【雪饼的朋友心声】China: My friend won a scholarship to study i
 date: 2021-12-19T09:34:13.687Z
 categories:
   - 雪饼的朋友心声
+tags:
+  - English
 ---
 By Simina Mistreanu
 18 December 2021 • 6:00am
