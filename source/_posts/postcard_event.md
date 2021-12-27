@@ -24,11 +24,8 @@ tags:
 本次活動有幾種參與方式，請挑選你方便的進行，我們希望大家盡量能將自己所寫內容拍照或截圖傳送給我們，用於凝聚關注。
 
 1. 下載本次活動的明信片電子檔，自行印製填寫，寄出前記得將內容拍照給我們喔。[電子檔下載地址](https://drive.google.com/drive/folders/1Ng0yCOj7q_MNbwxyItvaMzqwuH96kZiX?usp=sharing)
-
 2. 自選明信片或自制明信片，書寫內容並拍照回傳給我們，然後郵寄。
-
 3. 拿取實體明信片（僅限台北、香港、倫敦），書寫內容，拍照回傳給我們，然後郵寄。明信片放置地點將在本頁面持續更新（臺北：請直接前往唐山書店、女書店、女巫店門口拿取。香港：請前往一拳書館門口、序言書室門口、富德樓電梯位領取。倫敦：請聯繫 xuebinglondon@gmail.com 領取明信片）。
-
 4. 以上三種方式都不方便參與者，請填寫[電子表單](https://forms.gle/843QZyRXrLMucCUB9)，將你想說的話傳給我們。
 
 ## 【書寫完成請將內容拍照給我們】
@@ -36,12 +33,13 @@ tags:
 請使用[電子表單](https://forms.gle/843QZyRXrLMucCUB9)進行照片上傳。
 
 如果您將照片發布在Facebook或Twitter，也請@我們的官方帳號:
-- Facebook: @Freexueqin黄雪琴&Jianbing王建兵
-- Twitter: @FreeXueBing
+
+* Facebook: @Freexueqin黄雪琴&Jianbing王建兵
+* Twitter: @FreeXueBing
 
 ## 【郵寄地址】
 
-地址：Guangzhou, China, 广东省广州市白云区后冈北街第一看守所，郵編：510430
+地址：Guangzhou, China, 广东省广州市白云区后崗北街第一看守所，郵編：510430
 收件人請填寫黃雪琴或王建兵其中一人，我們鼓勵您給他們一人寄一張明信片。
 本次活動的郵票請自行購買。
 
