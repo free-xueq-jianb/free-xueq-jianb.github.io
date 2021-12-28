@@ -3,6 +3,8 @@ layout: post
 title: Send A Postcard to Xuebing (Huang XueQin & Wang JianBing)
 date: 2021-12-28T17:18:49.315Z
 cover: https://i.imgur.com/eJuTyNg.png
+tags:
+  - English
 ---
 ![](https://i.imgur.com/eJuTyNg.png)
 
