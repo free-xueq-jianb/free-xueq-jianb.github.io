@@ -13,6 +13,56 @@ tags:
 
 <!-- more -->
 
+![](https://i.imgur.com/IAe2638.jpg)
+
+雪琴好：
+
+你一定知道荣光归于你，那些恶击不倒你的。我等着你，咱们喝烈酒！就着蒜瓣儿！
+
+![](https://i.imgur.com/WZagbxv.jpg)
+
+你好啊雪琴：
+
+愿早日自由
+
+新年快乐！！
+
+<div style="text-align: right">一位远方的朋友<br>2021.12.25</div>
+
+![](https://i.imgur.com/16ZHVVW.jpg)
+
+致黄雪琴：
+
+希望你们可以在过年之前回家
+
+和亲爱的家人在一起
+
+我想他们一定也想你
+
+我会一直支持你的
+
+希望你平安健康
+
+![](https://i.imgur.com/FXIJyCv.jpg)
+
+致王建兵：
+
+希望你能够在过年前日回到自己家里和亲爱的家人一起团聚
+
+你的家人一定也很想你
+
+希望你平安健康
+
+![](https://i.imgur.com/hwtKhTa.jpg)
+
+给看守所：还人民自由！！
+
+给建兵：支持你，要加油！做对的事不用在乎他人眼光！希望你可以年前返家！
+
+Blessing from Taiwan
+
+<div style="text-align: right">M.</div>
+
 ![](https://i.imgur.com/82GEUhZ.jpg)
 
 给看守所：还人民自由！！
