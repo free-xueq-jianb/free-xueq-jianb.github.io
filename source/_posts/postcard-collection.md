@@ -11,6 +11,56 @@ tags:
 ---
 ![](https://i.imgur.com/ePMntyV.jpg)
 
+![](https://i.imgur.com/fklxv89.jpg)
+
+王建兵你好
+
+我所认识最勇敢的人都是温柔的，像是甘地，相信你也是这样的人，所以送你一首甘地很喜欢的诗人的诗。
+
+请加油
+
+寻常小物，我留给挚爱
+
+It is the little things that I leave behind for my loved ones. --
+
+伟大器物，我留给众生。
+
+great things are for everyone.
+
+泰戈尔（Tagore）
+
+<div style="text-align: right">立涵<br>2021.12.30</div>
+
+![](https://i.imgur.com/BTtqV6C.jpg)
+
+雪琴你好
+
+我看见一个温柔的女人立志做坚定的事，我也是个女人，想分享一首温柔的歌给你，带给你一点坚持的力量。
+
+Will we ever Rise?
+
+The Brilliance
+
+Will we ever rise?
+
+Will we ever rise above the fear?
+
+Can we learn to see the need?
+
+Can we share humanity?
+
+I can see another day come.
+
+Broken people we can be made whole, we can be made whole
+
+Broken people we can be made whole, we can be made whole
+
+As we lay down our weapons, Open up our hearts
+
+Love is breaking us, Love remaking us
+
+<div style="text-align: right">立涵<br>2021.12.30</div>
+
 ![](https://i.imgur.com/R2l9ODY.jpg)
 
 雪琴：
