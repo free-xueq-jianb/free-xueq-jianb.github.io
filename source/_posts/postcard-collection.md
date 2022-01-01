@@ -11,6 +11,16 @@ tags:
 ---
 ![](https://i.imgur.com/ePMntyV.jpg)
 
+![](https://i.imgur.com/R2l9ODY.jpg)
+
+雪琴：
+
+多晒太阳多吃饭。
+
+希望你能继续读书，丰富自己，也继续用你的报道丰富这个世界。
+
+<div style="text-align: right">一个被你19年报道感动过的读者</div>
+
 ![](https://i.imgur.com/XlicWlz.jpg)
 
 建兵：
@@ -37,7 +47,7 @@ tags:
 
 致王建兵：
 
-我们等你回来
+我们等你们回来
 
 ![](https://i.imgur.com/gy7NrIS.jpg)
 
