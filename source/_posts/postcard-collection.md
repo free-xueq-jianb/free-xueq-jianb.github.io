@@ -11,6 +11,18 @@ tags:
 ---
 ![](https://i.imgur.com/ePMntyV.jpg)
 
+![](https://i.imgur.com/JwcNw8Z.jpg)
+
+雪琴、建兵：
+
+我们惦着你们守理守法被带走这违反宪法、国家声名有损、破坏了美好的中国梦的不法行为几时可以结束，还你们清白！？
+
+天气冷 衣服够吗
+
+保重为安
+
+<div style="text-align: right">香港市民<br>2021年12月</div>
+
 ![](https://i.imgur.com/fklxv89.jpg)
 
 王建兵你好
