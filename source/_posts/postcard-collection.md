@@ -11,6 +11,61 @@ tags:
 ---
 ![](https://i.imgur.com/ePMntyV.jpg)
 
+![](https://i.imgur.com/82GEUhZ.jpg)
+
+给看守所：还人民自由！！
+
+给雪琴：支持你，要加油！做对的事不用在乎他人眼光！希望你可以年前返家！
+
+Blessing from Taiwan
+
+<div style="text-align: right">M.</div>
+
+![](https://i.imgur.com/a3RVyEr.jpg)
+
+黄雪琴与王建兵
+
+您们好，愿您们平安
+
+往时：从你们手中的光揭露了黑暗
+
+今时：须然被黑暗掩藏了您们
+
+将来：光明必把您们照耀在世人中
+
+<div style="text-align: right">香港基督徒</div>
+
+![](https://i.imgur.com/NAmtwjE.jpg)
+
+煎饼你好：
+
+得知你的近况，我和朋友们都很担心，最近天气降温了，不知你那里如何，寒夜漫漫，这个冬天我们陪你一起等待。
+
+雪琴你好：
+
+听说你们的故事以及现在的遭遇。你们的声音并没有消失，它很微弱但依旧处在人们群中，等待，等待，坐待天明。
+
+
+![](https://i.imgur.com/6gIA3g5.jpg)
+
+致黄雪琴：
+
+感谢你在如此高压的国度仍然不畏强权、坚守良知。
+
+![](https://i.imgur.com/qdexBbt.jpg)
+
+致王建兵：
+
+祝勇敢的你们
+
+平安健康
+
+致黄雪琴：
+
+祝勇敢的你们
+
+平安健康
+
 ![](https://i.imgur.com/JwcNw8Z.jpg)
 
 雪琴、建兵：
