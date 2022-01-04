@@ -13,6 +13,16 @@ tags:
 
 <!-- more -->
 
+![](https://i.imgur.com/DMEV8z3.jpg)
+
+雪琴妳好，
+
+謝謝你的勇氣與做過的報導。
+
+記者為我們的世界留低記錄，而今日我們為未來的世界記住記者。
+
+新年平安！Best Wishes ❤️
+
 ![](https://i.imgur.com/72CtQaO.jpg)
 
 建兵兄：
