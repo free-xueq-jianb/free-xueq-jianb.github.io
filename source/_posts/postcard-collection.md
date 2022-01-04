@@ -13,6 +13,50 @@ tags:
 
 <!-- more -->
 
+![](https://i.imgur.com/72CtQaO.jpg)
+
+建兵兄：
+
+感谢你为弱者发声
+
+请看顾自己心灵
+
+保重身体
+
+我们惦着你和雪琴
+
+<div style="text-align: right">香港市民<br>2022.1.1</div>
+
+雪琴：
+
+感谢义行
+
+保重身心
+
+真理必胜
+
+<div style="text-align: right">香港市民<br>2022.1.1</div>
+
+![](https://i.imgur.com/Q8UtnmV.jpg)
+
+亲爱的王建兵：
+
+感谢你的付出！
+
+历史会记住你
+
+新年好！
+
+<div style="text-align: right">2022.1.2</div>
+
+![](https://i.imgur.com/Z5MG0wc.jpg)
+
+雪琴：
+
+在網路上看到你的報導，覺得我們擁有相似的性格、堅持喜好。你彷彿另一條路上的另一個我，但也比我更勇敢、強壯。寒冬來了，希望我的溫暖也可以分一點給你。
+
+新年快樂！願你早日自由！
+
 ![](https://i.imgur.com/2V1TevP.jpg)
 
 亲爱的王建兵
