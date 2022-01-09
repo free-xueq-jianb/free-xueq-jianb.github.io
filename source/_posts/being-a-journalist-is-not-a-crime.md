@@ -17,7 +17,7 @@ This is a prison note written by Huang Xueqin, when she was arrested the first t
 
 I am Sophia Huang Xueqin, a(n) independent journalist from Guangzhou, mainland China. I am proud of who I am even it brought me to the cell now. Witnessing the protest in HK this summer, I report the news and stories which are edited or buried in mainland China, but my reporting(s) are censored later.
 
-8月25日，我回到广州时，警察审问了我22个小时，并没收了我所有的旅行证件。我被迫撤回录取通知书，并在没有办法申请学生签证的情况下推迟在港大的入学一年。警察在10月17日要求我去拿我的旅行证件，但当我到达警察局时他们却逮捕了我。警察们把我关在牢房里，指控我犯罪，他们说这是 "挑起事端和制造混乱"。他们说，如果我承认罪行，并保证不再写报道反对他们，就可以释放我。我拒绝了。记录和报道是我的义务和责任。我将承担我的报道的成本和代价。
+8月25日，我回到广州时，警察审问了我22个小时，并没收了我所有的旅行证件。我被迫撤回录取通知书，没有办法申请学生签证的情况下，我只好推迟入学港大一年。10月17日，警察要求我去拿我的旅行证件，但当我到达警察局时他们却逮捕了我。警察们把我关在牢房里，指控我犯罪，他们说这是 "挑起事端和制造混乱"。他们说，如果我承认罪行，并保证不再写报道反对他们，就可以释放我。我拒绝了，记录和报道是我的义务和责任。我愿意承担我的报道的代价。
 
 The police interrogated me for 22 hours when I returned Guangzhou at August 25 and confiscated all my travel document(s). I have to withdraw the offer and delay my study for a year in HKU without my permit to apply the student visa. The police asked me to fetch my travel document at October 17, but they arrested me when I arrived at the police station. They keep me in the cell and charging me the crime, which they said is “picking up trouble and making chaos”(“Picking quarrels and provoking trouble”). They said I can be released if I confess the crime and promise never write against them again. I refuse(d). It is my obligation and duty to record and report. I will bear the cost and price of my reporting.
 
