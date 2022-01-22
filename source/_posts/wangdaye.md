@@ -7,6 +7,8 @@ categories:
   - 雪饼的朋友心声
 tags: []
 ---
+![](https://i.imgur.com/LPifrXw.png)
+
 亲爱的王大爷，
 
 你好吗？
