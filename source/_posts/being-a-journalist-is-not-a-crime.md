@@ -21,7 +21,10 @@ I am Sophia Huang Xueqin, a(n) independent journalist from Guangzhou, mainland C
 
 The police interrogated me for 22 hours when I returned Guangzhou at August 25 and confiscated all my travel document(s). I have to withdraw the offer and delay my study for a year in HKU without my permit to apply the student visa. The police asked me to fetch my travel document at October 17, but they arrested me when I arrived at the police station. They keep me in the cell and charging me the crime, which they said is “picking up trouble and making chaos”(“Picking quarrels and provoking trouble”). They said I can be released if I confess the crime and promise never write against them again. I refuse(d). It is my obligation and duty to record and report. I will bear the cost and price of my reporting.
 
-如果报告真相和事实是一种犯罪，请审判我。如果质疑当局是不可接受的，请审判我。如果要求以和平和合理的方式解决香港问题是违法的，请审判我。审判我是否作为一个记者是一种犯罪。
+如果报告真相和事实是一种犯罪，请审判我。   
+如果质疑当局是不可接受的，请审判我。    
+如果要求以和平和合理的方式解决香港问题是违法的，请审判我。    
+如果当一名记者是一种犯罪，请审判我。
 
 Judge me if reporting the truth and facts is a crime. Judge me if questioning the authorities is not acceptable. Judge me if asking a peaceful and reason(able) solution to HK is against the law. Judge me if being a journalist is a crime. 
 
