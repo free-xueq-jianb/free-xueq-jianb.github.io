@@ -30,3 +30,5 @@ tags: []
 想念你的朋友
 
 2022年1月12日
+
+![](https://i.imgur.com/Y8SBxz8.png)
