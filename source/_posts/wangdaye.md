@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 亲爱的王大爷
+title: 【给王建兵】亲爱的王大爷
 date: 2022-01-22T17:55:52.758Z
+cover: https://i.imgur.com/LPifrXw.png
 categories:
   - 雪饼的朋友心声
 tags: []
