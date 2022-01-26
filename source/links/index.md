@@ -89,7 +89,7 @@ The followings are the main timeline of 0919 "Xuebing" case. It will continued t
 - 2021.11.19 再次拒绝律师会见和取保候审：在王建兵家属收到逮捕通知书后，律师应王建兵家属要求再次书面向广州市公安局申请会见和取保候审，11月19日广州市警方回函告知，拒绝律师会见申请和取保候审申请。
 - 2021.11.19 家属无法为王建兵汇款：在9月份雪饼二人被抓之后、以及11月家属收到逮捕通知书后，家属和亲友多次尝试通过“粤省事”系统给两人所在看守所汇款，输入姓名和身份证后后，均提示“审核不通过”。因此即便逮捕通知书显示二人现拘于广州市第一看守所，给雪饼汇款异常，说明了雪饼的关押地点极有可能和逮捕书上的不一致。雪饼真实的关押地点、身体状况等基本情况，无从得知。
 - 2021.12.26 919雪饼事件的声援者发起“新年会有光，给雪饼寄张明信片”活动，国内各城市、台北、香港、伦敦、巴黎等地的声援者撰写明信片寄送至关押二人的广州市看守所，表达对警方恶意拘捕的抗议及对雪饼的思念。
-- 2022.1.25 据知情人士确认，MeToo行动者和独立记者黄雪琴现正被关押于广州市第二看守所 (白云区石井镇潭岗村)，其与王建兵同被控以“煽动颠覆国家政权罪”自2021年9月19日消失至今超4个月，未能为其委托律师，也无法向其汇款，至今不知其身心健康状况。
+- 2022.1.25 据知情人士确认，MeToo行动者和独立记者黄雪琴现正被关押于广州市第二看守所 (白云区石井镇潭岗村)，其与王建兵同被控以“煽动颠覆国家政权罪”自2021年9月19日消失至今超4个月。家属未能为其委托律师，也无法向其汇款，至今不知其身心健康状况。
 
 ---
 
@@ -106,7 +106,7 @@ The followings are the main timeline of 0919 "Xuebing" case. It will continued t
 - 2021/11/19 Attorney’s visit and bailing requests got denied again: after Wang Jianbing’s family received the Notice of Arrest, Wang’s attorney requested meeting with Wang and for him to be released on bail. The Guangzhou police denied both requests on November 19.
 - 2021/11/19 Family failed to make deposit to Wang Jianbing: Druing the period of being informed of the arrest in September and receiving notice of arrest in November, family members and friends tried to deposit money for the two through the online prison remittance system in Guangzhou No. 1 Detention Center. When Huang and Wang’s names and ID numbers were entered, the system showed “verification failed” and the attempt to deposit also failed. Normally relatives and friends of detainees in Guangdong are able to deposit money through this system. Failure to do so implies that their two’s detention location might be different from what's indicated on the notice. The real location of their detention remains unknowable, as well as other basic information, such as their health conditions.
 - 2021/12/26 Supporters of the 919 Huang Xueqin and Wang Jianbing case launched the "New Year will be bright, send a postcard to XueBing" campaign, with supporters from various cities of China Mainland, Taipei, Hong Kong, London, and Paris writing postcards and sending them to the Guangzhou City Detention Center, where the two are being held, to express their protest against the police's malicious arrests and their thoughts for XueBing.
-- 2022/1/25 According to informed sources, MeToo activist and independent journalist Huang Xueqin is now being held in Guangzhou City Detention Center No. 2 (Tangang Village, Shijing Town, Baiyun District), where he and Wang Jianbing have been charged with "inciting subversion of state power" and have been missing for over four months since September 19, 2021. I have not been able to appoint a lawyer for him, nor can I remit money to him, and so far I do not know his physical and mental health status.
+- 2022/1/25 Chinese MeToo activist & independent journalist HuangXueqin is known to be officially held at Guangzhou No. 2 Detention Center. She have been forcibly disappeared since Sept 19,2021, under the illegitimate charge of inciting subversion of state power. HuangXueqin was unable to be represented or visited by lawyers and her physical and mental health conditions is still unknown. It was previously confirmed that her fellow, the labor activist WangJianbing is held at Guangzhou No.1 Detention Center, under the same charge with her.
 
 ## 国际声援（不断更新）International Solidarity
 
