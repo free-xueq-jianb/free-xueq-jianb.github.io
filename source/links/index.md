@@ -2,9 +2,9 @@
 title: “0919雪饼”被捕事件综述（不断更新）An Overview of  "0919 Huang&Wang" case, English version avaiable
 ---
 
-更新时间：2021-12-07
+更新时间：2022-01-25
 
-本文为**“0919雪饼”被捕事件**之综述，系统性讲述“雪饼”（黄雪琴和王建兵）两人遭遇的政治打压和当下的案情进展。希望民间社群伙伴、各界媒体、和国际社群可以持续**关注、支持和声援**雪饼二人，促使中国广州警察无条件释放两人。本文档将持续更新（2021.11.27）。
+本文为**“0919雪饼”被捕事件**之综述，系统性讲述“雪饼”（黄雪琴和王建兵）两人遭遇的政治打压和当下的案情进展。希望民间社群伙伴、各界媒体、和国际社群可以持续**关注、支持和声援**雪饼二人，促使中国广州警察无条件释放两人。本文档将持续更新（2022.01.25）。
 
 This is an overview of the "0919 Huang&Wang" case (aka the Xuebing Case, an abbreviation of Huang Xueqin and Wang Jianbing's first names). It will provide a comprehensive account of the secret arrest of "Xuebing", as well as the ongoing progress of the case. We hope that friends from civil society community, media, and international community could continue to stay tuned, and support Huang and Wang. We urge the Guangzhou police to release them unconditionally. This document will be continuously updated (by 2021.11.19).
 
@@ -12,7 +12,7 @@ This is an overview of the "0919 Huang&Wang" case (aka the Xuebing Case, an abbr
 
 ## 发生了什么？What Happened?
 
-2021年9月19日下午，女权记者黄雪琴、职业病权益倡导者王建兵（昵称“煎饼”）于王建兵住处失联。后经确认，两人于当天下午3点左右被广州市公安局以涉嫌“煽动国家政权罪”抓捕，并疑对双方采取了“指定居所监视居住”（RSDL)，但警方并未给家属寄送法律规定的通知书。黄雪琴原计划于9月20日经深圳前往香港机场，飞赴英国留学，而王建兵则原计划于当天给其送行。
+2021年9月19日下午，女权记者黄雪琴、职业病权益倡导者王建兵（昵称“煎饼”）于王建兵住处失联。后经确认，两人于当天下午3点左右被广州市公安局以涉嫌“煽动国家政权罪”抓捕，并疑对双方采取了“指定居所监视居住”（RSDL)，但警方并未给家属寄送法律规定的通知书。黄雪琴原计划于9月20日经深圳前往香港机场，飞赴英国留学，而王建兵则原计划于当天给其送行。据知情人士确认，目前黄雪琴被关押在广州第二看守所、王建兵被关押在广州市第一看守所，家属无法向两人汇款，至今两人的身心健康状况仍不明确。
 
 Feminist journalist Huang Xueqin and occupational disease advocate Wang Jianbing (nicknamed "pancake", pronounced as "Jianbing" in Mandarin Chinese) were secretly taken away, last seen at Wang Jianbing's apartment, since the afternoon of September 19, 2021. It was later confirmed that the two were arrested by the Guangzhou Public Security Bureau at around 3 pm that day on suspicion of "inciting subversion of state power". It is also suspected that the two were placed under "Residential Surveillance at a Designated Residences" (RSDL), but the police did not send any formal notice to their families as legally required until the end of October. Huang Xueqin was planning to travel to Hong Kong International Airport via Shenzhen on September 20, 2021 to study in the United Kingdom, and Wang Jianbing had planned to accompany Huang part of the way.
 
@@ -60,13 +60,13 @@ On September 20, the second day after Wang and Huang were abducted by the police
 
 Regarding Wang Jianbing's attorney: In the mid-October, Wang's family appointed Guizhou attorney Xiao Yunyang to defend Wang Jianbing. On October 21, Attorney Xiao met with officer Wang from the Guangzhou Public Security Bureau, and submitted to the case-handling authority a application to meet with Wang Jianbing and the power of attorney. In the weeks that followed, Guangzhou police used the excuse that they "required more time to verify the authenticity of the documents" and refused to recognize the lawyer as Wang's legal representative. His application for a lawyer visit was also denied by the police, who cited the same excuse. They requested the lawyer to return and wait for a notice. The police have also hinted that "the case involves national security, so there'll be difficulty in meeting with Wang". Afterwards, Attorney Xiao contacted Guangzhou police several times to apply for a meeting with Wang. On November 19, the case-handling authority notified Attorney Xiao that his request to meet with Wang was not approved, nor was his application requesting Wang to be released on bail.
 
-## “雪饼案”两人最新情况（截至2021.11.27) Most Recent Updates
+## “雪饼案”两人最新情况（截至2022.01.25) Most Recent Updates
 
-最新情况：11月5日，王建兵家属收到了广州市公安局发出的“逮捕通知书”，编号为“穗公捕通字[2021]X2”，通知书显示王建兵已于10月27日被广州市公安局以涉嫌“煽动颠覆国家政权”的名义被执行逮捕，现拘留于广州市第一看守所。此前10月底，黄雪琴家属亦收到其逮捕通知书，推测其编号应为相似的“穗公捕通字[2021]X1”。此外，王建兵律师已多次申请会见和取保候审，皆被警方拒绝。
+最新情况：2022年1月25日，据知情人士确认，黄雪琴现正被关押于广州市第二看守所(白云区石井镇潭岗村)，罪名为“煽动颠覆国家政权罪”。此前，2021年的11月5日，王建兵家属也收到了广州市公安局发出的“逮捕通知书”，显示王建兵因“煽动颠覆国家政权罪”被拘留于广州市第一看守所。
 
-Latest updates of the case: on November 5 Wang Jianbing’s family received an "Notice of Arrest" issued by the Guangzhou Public Security Bureau, numbered ‘Sui Public Security Bureau arrest notice [2021] X2’. The notice informs that Wang Jianbing was officially arrested by the Guangzhou Public Security Bureau on October 27. He was arrested with the charge of "inciting subversion of state power" and is now being detained at Guangzhou No. 1 Detention Center. Huang Xueqin's family also received a similar Notice of Arrest at the end of October. It is suspected that the serial number of the notice is similar to Wang's, which might be ”Sui Public Security Bureau arrest notice [2021] X1". Also, Wang Jianbing’s attorney has repeatedly requested meetings with Wang and bailing, but the police denied all requests.
+Latest updates of the case: On January 25, 2022, informed sources confirmed that Huang Xueqin is now being held at the Guangzhou Second Detention Center (Tangang Village, Shijing Town, Baiyun District) on charges of "inciting subversion of state power". Previously, on November 5, 2021, Wang Jianbing's family also received an "arrest notice" from the Guangzhou Public Security Bureau, indicating that Wang Jianbing was detained at the Guangzhou No. 1 Detention Center for "inciting subversion of state power.
 
-此外，在11月家属收到逮捕通知书后，亲友们多次尝试通过“粤省事”系统给逮捕通知书上列明的广州市第一看守所汇款，输入雪饼二人的姓名和身份证后，均提示“审核不通过”。正常情况下，广东地区被羁押者亲友可以通过“粤省事”小程序进行汇款，**但给雪饼汇款异常，说明了雪饼的关押地点极有可能和逮捕书上的不一致。**雪饼真实的关押地点、身体状况等基本情况，无从得知。
+此外，在11月王建兵家属收到逮捕通知书后，亲友们多次尝试通过“粤省事”系统给逮捕通知书上列明的广州市第一看守所汇款，输入雪饼二人的姓名和身份证后，均提示“审核不通过”。正常情况下，广东地区被羁押者亲友可以通过“粤省事”小程序进行汇款，**但给雪饼汇款异常，说明了雪饼的关押地点极有可能和逮捕书上的不一致。**雪饼真实的关押地点、身体状况等基本情况，无从得知。
 
 After being informed of the arrest in November, relatives and friends tried to deposit money for the two through the online prison remittance system of Guangzhou No. 1 Detention Center. When Huang and Wang’s names and ID numbers were entered, the system showed “verification failed” and the attempt to deposit also subsequently failed. Normally relatives and friends of detainees in Guangdong would be able to deposit money through this system. Failure to do so implies that the two’s detention location might be different from what's indicated by the notice. The real location of the detention remains unknowable, as well as other basic informations, such as their health conditions.
 
@@ -88,6 +88,8 @@ The followings are the main timeline of 0919 "Xuebing" case. It will continued t
 - 2021.11.05 收到逮捕通知书：王建兵家属收到了广州市公安局发出的“逮捕通知书”，编号为“穗公捕通字[2021]X2”，通知书显示王建兵已于10月27日被广州市公安局以涉嫌“煽动颠覆国家政权”的名义被执行逮捕，现拘留于广州市第一看守所。此前10月底，黄雪琴家属亦收到其逮捕通知书，编号应为相似的“穗公捕通字[2021]X1”。律师表示，“将再次申请会见”。
 - 2021.11.19 再次拒绝律师会见和取保候审：在王建兵家属收到逮捕通知书后，律师应王建兵家属要求再次书面向广州市公安局申请会见和取保候审，11月19日广州市警方回函告知，拒绝律师会见申请和取保候审申请。
 - 2021.11.19 家属无法为王建兵汇款：在9月份雪饼二人被抓之后、以及11月家属收到逮捕通知书后，家属和亲友多次尝试通过“粤省事”系统给两人所在看守所汇款，输入姓名和身份证后后，均提示“审核不通过”。因此即便逮捕通知书显示二人现拘于广州市第一看守所，给雪饼汇款异常，说明了雪饼的关押地点极有可能和逮捕书上的不一致。雪饼真实的关押地点、身体状况等基本情况，无从得知。
+- 2021.12.26 919雪饼事件的声援者发起“新年会有光，给雪饼寄张明信片”活动，国内各城市、台北、香港、伦敦、巴黎等地的声援者撰写明信片寄送至关押二人的广州市看守所，表达对警方恶意拘捕的抗议及对雪饼的思念。
+- 2022.1.25 据知情人士确认，MeToo行动者和独立记者黄雪琴现正被关押于广州市第二看守所 (白云区石井镇潭岗村)，其与王建兵同被控以“煽动颠覆国家政权罪”自2021年9月19日消失至今超4个月，未能为其委托律师，也无法向其汇款，至今不知其身心健康状况。
 
 ---
 
@@ -103,6 +105,8 @@ The followings are the main timeline of 0919 "Xuebing" case. It will continued t
 - 2021/11/05 Family got Notice of Arrest: Wang Jianbing’s family received an "Notice of Arrest" issued by the Guangzhou Public Security Bureau, numbered ‘Sui Public Security Bureau arrest notice [2021] X2’. The notice shows that Wang Jianbing was arrested by the Guangzhou Public Security Bureau on October 27. He was arrested with the charge of "inciting subversion of state power" and is now being detained in Guangzhou No. 1 Detention Center. In the end of October, Huang Xueqin's family also received her Notice of Arrest. It is speculated that the serial number is similar to Wang's, which might be ”Sui Public Security Bureau arrest notice [2021] X1". The attorney reiterated he would request meetings again.
 - 2021/11/19 Attorney’s visit and bailing requests got denied again: after Wang Jianbing’s family received the Notice of Arrest, Wang’s attorney requested meeting with Wang and for him to be released on bail. The Guangzhou police denied both requests on November 19.
 - 2021/11/19 Family failed to make deposit to Wang Jianbing: Druing the period of being informed of the arrest in September and receiving notice of arrest in November, family members and friends tried to deposit money for the two through the online prison remittance system in Guangzhou No. 1 Detention Center. When Huang and Wang’s names and ID numbers were entered, the system showed “verification failed” and the attempt to deposit also failed. Normally relatives and friends of detainees in Guangdong are able to deposit money through this system. Failure to do so implies that their two’s detention location might be different from what's indicated on the notice. The real location of their detention remains unknowable, as well as other basic information, such as their health conditions.
+- 2021/12/26 Supporters of the 919 Huang Xueqin and Wang Jianbing case launched the "New Year will be bright, send a postcard to XueBing" campaign, with supporters from various cities of China Mainland, Taipei, Hong Kong, London, and Paris writing postcards and sending them to the Guangzhou City Detention Center, where the two are being held, to express their protest against the police's malicious arrests and their thoughts for XueBing.
+- 2022/1/25 According to informed sources, MeToo activist and independent journalist Huang Xueqin is now being held in Guangzhou City Detention Center No. 2 (Tangang Village, Shijing Town, Baiyun District), where he and Wang Jianbing have been charged with "inciting subversion of state power" and have been missing for over four months since September 19, 2021. I have not been able to appoint a lawyer for him, nor can I remit money to him, and so far I do not know his physical and mental health status.
 
 ## 国际声援（不断更新）International Solidarity
 
@@ -132,6 +136,8 @@ The followings are the main timeline of 0919 "Xuebing" case. It will continued t
 - 密歇根大学教授王政：[中秋杂感：失联的雪琴是难能可贵的佼佼者](https://free-xueq-jianb.github.io/2021/09/25/gushi3/) Prof. Wang Zheng from University of Michigan：Notes on Mid-autumn Festival: Xueqin, an Excellent Activist Hard to Find
 - The Independent: [Concerns mount in China over missing MeToo and labour rights activists](https://free-xueq-jianb.github.io/2021/09/25/independentnews/) 
 - SCMP: [China’s missing #MeToo and labour activist pair held by police, family told](https://free-xueq-jianb.github.io/2021/10/06/scmp-family/)
+- [【给王建兵】亲爱的王大爷](https://freexqjb.netlify.app/2022/01/22/wangdaye/)
+- [Tribute to an ‘Ordinary Chinese Activist’](https://www.chinafile.com/ngo/latest/tribute-ordinary-chinese-activist)
 
 ## 请关注和声援雪饼！Please Support Huang Xueqin and Wang Jianbing
 
