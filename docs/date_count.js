@@ -20,12 +20,12 @@ var styles = `
     display: inline-block;
     font-weight: 100;
     text-align: center;
-    font-size:15px;
+    font-size:20px;
     padding: 1px;
     padding-left:3px;
     padding-right:3px;
     border-radius: 3px;
-    background: #2096F4;
+    background: #db0000;
     display: inline-block;
     font-weight:800;
 }
@@ -35,7 +35,7 @@ var styles = `
 #clockdiv div > span{
     border-radius: 3px;
     background: #fff;
-    color: #2096F4;
+    color: #db0000;
     display: inline-block;
     margin-top:3px;
     margin-bottom:3px;
