@@ -1,13 +1,13 @@
 ---
 layout: post
-title: ordinary_chinese_activist
+title: 【ChinaFile】Tribute to an ‘Ordinary Chinese Activist’
 date: 2022-01-27T10:39:44.293Z
 cover: https://i.imgur.com/VZidzeJ.png
 categories:
   - 媒体报道
+tags:
+  - English
 ---
-Tribute to an ‘Ordinary Chinese Activist’
-
 I first met Jianbing on a cold Gansu winter day over twelve years ago, in the Year of the Ox. As fate would have it, the same astrological sign that brought a dear friend into my life snatched him away mercilessly when it returned twelve years later.
 
 I remember that day as if it were yesterday. Jianbing was getting up from a bunk bed in the hostel dormitory where we were both staying at the time. He was intrigued by this foreigner arriving with a Beijing colleague, and was relieved to learn that said foreigner could speak enough Mandarin to communicate with those around him.
@@ -27,3 +27,5 @@ One of the last times we spoke, I had already sensed that things were getting wo
 I will never forget his answer: “You know there’s nothing special to write about me. I’m just an ordinary Chinese activist. Many of the companions (xiao huoban) around me are much braver and have much more interesting stories to tell.”
 
 I hope we’ll soon be able to pick up our conversation again, drinking tea, eating sunflower seeds, and laughing as we did in that dim hostel dormitory on a cold Gansu night twelve years ago.
+
+[Source](https://www.chinafile.com/ngo/latest/tribute-ordinary-chinese-activist)
