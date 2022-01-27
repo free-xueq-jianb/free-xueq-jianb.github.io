@@ -116,7 +116,7 @@ inject:
     - <meta name="google-site-verification" content="JTT-ApcJkrAGDSgcL8s5toLCBJt00ptmkxAzuu2tjWE" />
     - <meta name="google-site-verification" content="6BTDC8Q3SLyQ1G7EKAeYoyM06GE4wPKsY66HIPAKDzo" />
     - <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    - <script src="date_count.js"></script>
+    - <script src="https://free-xueq-jianb.github.io/date_count.js"></script>
 
 feed:
   enable: true
