@@ -1,5 +1,5 @@
 
-var startline = new Date("2021-09-19T12:00:00.000+08:00").getTime();
+var startline = new Date("2021-09-19T00:00:00.000+08:00").getTime();
   
 var x = setInterval(function() {
   
