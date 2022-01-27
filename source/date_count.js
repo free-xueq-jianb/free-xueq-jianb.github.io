@@ -20,33 +20,34 @@ var styles = `
     display: inline-block;
     font-weight: 100;
     text-align: center;
-    font-size:20px;
+    font-size:40px;
     padding: 1px;
     padding-left:3px;
     padding-right:3px;
-    border-radius: 3px;
+    border-radius: 5px;
     background: #db0000;
     display: inline-block;
     font-weight:800;
 }
 #clockdiv > div{
+	padding-top:7px;
+	padding-left:10px;
     display: inline-block;
+    font-size:20px;
 }
-#clockdiv div > span{
-    border-radius: 3px;
+#clockdiv > span{
+    border-radius: 7px;
     background: #fff;
     color: #db0000;
     display: inline-block;
-    margin-top:3px;
     margin-bottom:3px;
-    padding-left:3px;
-    padding-right:3px;
-    margin-left:2px;
-    margin-right:2px;
+    padding-left:10px;
+    padding-right:10px;
+    font-size:50px;
 }
-smalltext{
-    padding-top: 5px;
-    font-size: 16px;
+#smalltext{
+    font-size:5px !important;
+    padding:0px !important;
 }
 `
 var styleSheet = document.createElement("style")
