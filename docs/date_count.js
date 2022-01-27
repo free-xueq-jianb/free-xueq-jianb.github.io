@@ -20,21 +20,29 @@ var styles = `
     display: inline-block;
     font-weight: 100;
     text-align: center;
-    font-size: 30px;
-    padding: 10px;
+    font-size:15px;
+    padding: 1px;
+    padding-left:3px;
+    padding-right:3px;
     border-radius: 3px;
-    background: #00BF96;
+    background: #2096F4;
     display: inline-block;
+    font-weight:800;
 }
 #clockdiv > div{
     display: inline-block;
 }
 #clockdiv div > span{
-    padding: 2px;
     border-radius: 3px;
     background: #fff;
-    color: #00BF96;
+    color: #2096F4;
     display: inline-block;
+    margin-top:3px;
+    margin-bottom:3px;
+    padding-left:3px;
+    padding-right:3px;
+    margin-left:2px;
+    margin-right:2px;
 }
 smalltext{
     padding-top: 5px;
