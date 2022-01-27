@@ -47,7 +47,6 @@ var styles = `
     font-size:50px;
 }
 #smalltext{
-    font-size:5px !important;
     padding-right:0px !important;
 }
 `
