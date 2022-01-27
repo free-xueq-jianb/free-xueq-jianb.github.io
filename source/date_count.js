@@ -27,6 +27,7 @@ var styles = `
     background: #db0000;
     display: inline-block;
     font-weight:800;
+    width: 100%;
 }
 #clockdiv > div{
 	padding-top:7px;
