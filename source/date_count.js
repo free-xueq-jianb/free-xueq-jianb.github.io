@@ -34,6 +34,7 @@ var styles = `
 	padding-left:10px;
     display: inline-block;
     font-size:20px;
+    padding-right:15px;
 }
 #clockdiv > span{
     border-radius: 7px;
@@ -47,7 +48,7 @@ var styles = `
 }
 #smalltext{
     font-size:5px !important;
-    padding:0px !important;
+    padding-right:0px !important;
 }
 `
 var styleSheet = document.createElement("style")
