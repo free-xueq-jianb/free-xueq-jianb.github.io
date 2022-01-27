@@ -20,7 +20,6 @@ var styles = `
     display: inline-block;
     font-weight: 100;
     text-align: center;
-    font-size:40px;
     padding: 1px;
     padding-left:3px;
     padding-right:3px;
@@ -33,7 +32,7 @@ var styles = `
 	padding-top:7px;
 	padding-left:10px;
     display: inline-block;
-    font-size:20px;
+    font-size:28px;
     padding-right:15px;
 }
 #clockdiv > span{
@@ -44,10 +43,10 @@ var styles = `
     margin-bottom:3px;
     padding-left:10px;
     padding-right:10px;
-    font-size:50px;
+    font-size:60px;
 }
 #smalltext{
-    padding-right:0px !important;
+    padding-right:8px !important;
 }
 `
 var styleSheet = document.createElement("style")
