@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “戴”着雪饼游世界
+title: “戴”着雪饼游世界，我们持续发声！
 date: 2022-02-05T16:13:55.049Z
 cover: https://i.imgur.com/Fd1p4zC.png
 categories:
