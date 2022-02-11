@@ -45,6 +45,7 @@ We stand in solidarity with our feminist sister: HUANG Xueqin. In the knowledge 
 We strongly urge Chinese authorities to disclose the whereabouts of HUANG Xueqin and WANG Jianbing and release them immediately and unconditionally.
 
 COSIGNATORIES (This list is arranged according to alphabetical order)
+
     1.  Dr. Sarah Abel, Centre of Latin American Studies, University of Cambridge
     2. Juliet Allen, PhD Candidate, University of Cambridge 
     3. Dr. Kim Allen, University of Leeds
