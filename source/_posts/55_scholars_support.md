@@ -4,12 +4,14 @@ title: 55名在英女权学者联署声援中国女权姐妹黄雪琴与其友�
   Letter of Solidarity with Chinese Feminist Sister Huang Xueqin and Her Friend
   Wang Jianbing
 date: 2022-02-11T12:40:07.606Z
-cover: https://i.imgur.com/2MVu7EF.jpg
+cover: https://i.imgur.com/bUohzVP.png
 categories:
   - 雪饼的朋友心声
 tags:
   - English
 ---
+![](https://i.imgur.com/fCFpQXC.png)
+
 2021年年底到2022年年初，55名来自英国各大高校的女权学者参与联署，声援中国米兔活动家和独立记者黄雪琴，敦促中国驻英大使公开黄雪琴和王建兵的最新下落并尽快释放两人。
 
 <!-- more -->
