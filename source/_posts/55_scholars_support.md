@@ -114,5 +114,3 @@ COSIGNATORIES (This list is arranged according to alphabetical order)
 [2]See news reports by Reporters without Borders: https://rsf.org/en/news/rsf-calls-release-chinese-investigative-journalist-huang-xueqin; and South China Morning Post: https://www.scmp.com/news/china/politics/article/3151288/chinas-missing-metoo-and-labour-activist-pair-held-police
 
 [3] https://free-xueq-jianb.github.io/links/
-
-![](https://i.imgur.com/gQMws1q.png)
