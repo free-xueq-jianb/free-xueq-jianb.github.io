@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 想念雪饼：致两位久未谋面的朋友
+title: 想念雪饼：致两位消失的朋友
 date: 2022-02-18T04:12:55.937Z
 cover: https://i.imgur.com/j6EPepA.png
 categories:
