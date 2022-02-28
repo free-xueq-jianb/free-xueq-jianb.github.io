@@ -1,6 +1,6 @@
 ---
 layout: post
-title: update227
+title: 【案件更新】雪饼截至今日（2022.2.27）侦查羁押已满4个月
 date: 2022-02-28T10:05:13.377Z
 categories:
   - 案件通报
