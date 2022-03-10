@@ -14,6 +14,8 @@ tags:
 
 On 19 September 2021, feminist activist and journalist [Sophia Huang Xueqin and her friend, labor activist Wang Jianbing](https://free-xueq-jianb.github.io/) were forcibly disappeared just as Huang was about to leave China for the United Kingdom, with Wang seeing her off. Huang was due to start a master’s program at the University of Sussex as a Chevening Scholar. They have both been charged with incitement to subvert state power, a nebulous charge which has long been used against activists and civil society members.
 
+![](https://i.imgur.com/I9pl5Mf.jpg)
+
 For months, the pair’s whereabouts remained unclear until 5 November 2021, when Wang’s family members received a letter stating that he was being held at Guangzhou No. 1 Detention Center. On 25 January 2022, it was revealed that Huang was being held at Guangzhou No. 2 Detention Center. However, it is impossible to confirm if the pair are being held at those detention centers because their friends and family have not been able to send them money via the prison’s system. 
 
 Huang Xueqin and Wang Jianbing are only the two of the most recent examples of this heavy handed approach to policing civil society. [Huang](https://cpj.org/data/people/sophia-huang-xueqin/) is an award-winning journalist and prominent #MeToo campaigner who used her journalistic talents to report on the movement. Huang reported on the first major #MeToo case in China but also took on an activist and promotional role by starting a fund for victims. Wang is a committee member of that fund.
