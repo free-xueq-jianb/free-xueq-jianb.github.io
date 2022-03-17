@@ -28,3 +28,5 @@ On 30 September 2021, three unidentified persons, suspected to be state security
 The latest research published by Front Line Defenders and partner organisations highlights the systematic misuse of vague national security provisions in order to arbitrarily detain human rights defenders for their peaceful activities.
 
 Front Line Defenders believes the detention and charges against Huang Xueqin and Wang Jianbing are a reprisal for their peaceful and legitimate exercise of their rights to freedom of assembly and association.
+
+[Source](https://www.frontlinedefenders.org/en/case/china-human-rights-defenders-huang-xueqing-and-wang-jianbing-facing-inciting-subversion)
