@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 行动者黄雪琴和王建兵（“雪饼”）被捕半年声明
-date: 2022-03-19T06:31:38.937Z
+date: 2022-03-20T06:31:38.937Z
 cover: https://i.imgur.com/VWxaFqY.png
 categories:
   - 案件通报
@@ -56,7 +56,7 @@ tags:
 释放雪饼！
 
 雪饼的朋友 Friends of Huang Xueqin and Wang Jianbing  
-2022年3月19日
+2022年3月20日
 
 
 关注雪饼案最新动态：  
