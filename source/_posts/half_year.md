@@ -37,9 +37,9 @@ tags:
 ## （4）声援“雪饼”，来自全球各地的声音
 
 尽管政府正在持续打压公民社会，通过传唤胁迫等方式令更多的行动者噤声，甚至强化网络审查令声援雪饼的行动和资讯都无法流通传播，但是诸多的伙伴和组织都在持续关注和支持雪饼：除了国际媒体和人权机构的声援外，我们在半年间也收到了大量国内外朋友以联署、明信片、面具照等形式表达对于雪饼的支持。简要列举如下：	
-1. 雪饼被强迫失踪和任意羁押后，Amnesty International（国际特赦组织）、Reporters Without Borders（无国界记者）、International Federation of Journalists（国际记者联盟）、Front Line Defenders（前线卫士）、Chinese Human Rights Defenders（中国人权捍卫者），以及欧盟驻华代表团等组织以声明形式表达支持和关注。2022年3月，人权组织 Human Rights Now和International Service for Human Rights 在联合国人权理事会中发言，呼吁人权高专办（OHCHR）关注雪饼事件，要求中国政府释放两人。
-2. 在英国，55名女权学者和英国大学及学院工会（UCU）的83位成员发起并参与了联署，要求中国政府立即释放雪饼；112名志奋领学者（Chevenor）发表联合声明，对雪饼两人遭遇任意羁押、无法探视的处境表示严切关注，督促英国外交部FCDO和旗下志奋领委员会对此事发声。
-3. 世界各地有近百位朋友给雪饼寄送明信片，表达对雪饼的关心祝福和对警察滥捕的抗议。另外，伦敦、香港、台北、阿联酋等地有支持者戴着雪饼的面具，在城市各处进行拍照抗议，呼吁中国政府释放雪饼。
+1. 雪饼被强迫失踪和任意羁押后，[Amnesty International](https://www.amnesty.org/en/latest/news/2021/11/china-metoo-journalist-and-labour-activist-facing-subversion-charge-must-be-released/)（国际特赦组织）、[Reporters Without Borders](https://rsf.org/en/news/rsf-calls-release-chinese-investigative-journalist-huang-xueqin)（无国界记者）、[International Federation of Journalists](https://www.ifj.org/media-centre/news/detail/category/press-releases/article/china-chinese-journalist-huang-xueqin-thought-detained-after-disappearance.html)（国际记者联盟）、[Front Line Defenders](https://www.frontlinedefenders.org/en/case/china-human-rights-defenders-huang-xueqing-and-wang-jianbing-facing-inciting-subversion)（前线卫士）、[Chinese Human Rights Defenders](https://www.nchrd.org/2021/09/china-immediately-release-metoo-activist-and-fellow-civil-society-advocate/)（中国人权捍卫者），以及[欧盟驻华代表团](https://eeas.europa.eu/delegations/china_en/108637/StatementoftheEUDelegationtoChinaontheInternationalHumanRightsDay)等组织以声明形式表达支持和关注。2022年3月，人权组织 [Human Rights Now](https://hrn.or.jp/eng/news/2022/03/16/hrc49_oral_statement_on_china_hrds/)和[International Service for Human Rights](https://twitter.com/FreeXueBing/status/1502135567919820803) 在联合国人权理事会中发言，呼吁人权高专办（OHCHR）关注雪饼事件，要求中国政府释放两人。
+2. 在英国，55名[女权学者](https://free-xueq-jianb.github.io/2022/02/11/55_scholars_support/)和[英国大学及学院工会（UCU）](https://docs.google.com/forms/d/e/1FAIpQLSfWshZFjBN5Qyn9TCEaRDS2HfTZV2o6JPWAA-vFjb1VVCemtg/viewform)的83位成员发起并参与了联署，要求中国政府立即释放雪饼；[112名志奋领学者（Chevenor）](https://free-xueq-jianb.github.io/2021/12/07/statement1208/)发表联合声明，对雪饼两人遭遇任意羁押、无法探视的处境表示严切关注，督促英国外交部FCDO和旗下志奋领委员会对此事发声。
+3. 世界各地有近百位朋友给雪饼[寄送明信片](https://free-xueq-jianb.github.io/2021/12/26/postcard_event/)，表达对雪饼的关心祝福和对警察滥捕的抗议。另外，伦敦、香港、台北、阿联酋等地有支持者[戴着雪饼的面具](https://free-xueq-jianb.github.io/2022/02/05/xuebing_world/)，在城市各处进行拍照抗议，呼吁中国政府释放雪饼。
 
 这些行动展现出雪饼案所引起的广泛愤怒和不满。作为熟悉雪饼的朋友，我们始终认为所有的外界声援行动，都会对警方的行为产生警告作用，将有助于改善雪饼两人的关押处境。长远来看，我们呼吁更多国内、国外的团体和个人加入声援雪饼的行动，争取两人的自由。
 
@@ -59,8 +59,8 @@ tags:
 2022年3月19日
 
 
-关注雪饼案最新动态：
+关注雪饼案最新动态：  
 网站：https://free-xueq-jianb.github.io/  
-Twitter：@FreeXueBing  
-Facebook: @Freexueqin黄雪琴&Jianbing王建兵  
+Twitter：[@FreeXueBing](https://twitter.com/FreeXueBing)    
+Facebook: [@Freexueqin黄雪琴&Jianbing王建兵](https://www.facebook.com/Freexueqinjianbing)   
 媒体联络：freexuebing@protonmail.com   
