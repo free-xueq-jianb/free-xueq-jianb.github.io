@@ -80,7 +80,7 @@ img {
   max-width: 100%;
 }
 li {
-  font-size: 0.9375rem;
+  font-size: 1.0575rem;
 }
 ul,
 ol {
@@ -152,7 +152,7 @@ a.button {
   -moz-transition: background 0.2s ease-out;
   -webkit-transition: background 0.2s ease-out;
   -o-transition: background 0.2s ease-out;
-  font-size: 0.9375rem;
+  font-size: 1.0575rem;
 }
 a.button.theme {
   background: #1bcdfc;
@@ -681,7 +681,7 @@ h4,
   font-size: 1.125rem;
 }
 h5 {
-  font-size: 0.9375rem;
+  font-size: 1.0575rem;
 }
 h6 {
   font-size: 0.75rem;
@@ -1161,7 +1161,7 @@ nav.cap a+a {
 .related-wrap#related-posts .related-posts a .title {
   color: var(--text-p1);
   font-weight: 500;
-  font-size: 0.9375rem;
+  font-size: 1.0575rem;
   margin: 0.75rem 0.75rem 0 0.75rem;
   display: -webkit-box;
   -webkit-box-orient: vertical;
@@ -1321,7 +1321,7 @@ nav.cap a+a {
 }
 .md .checkbox {
   display: flex;
-  font-size: 0.9375rem;
+  font-size: 1.0575rem;
   line-height: 1.2;
   --gap-p: 0.25rem;
 /* Checkbox */
@@ -1690,7 +1690,7 @@ details.folding[open] >div.body {
   background: var(--card);
   border-bottom-left-radius: 6px;
   border-bottom-right-radius: 6px;
-  font-size: 0.9375rem;
+  font-size: 1.0575rem;
 }
 details.folding[open] >div.body >:first-child {
   margin-top: 0;
@@ -2082,7 +2082,7 @@ details.folding[child=codeblock]>div.body .highlight .code:before {
   color: var(--text-p1);
 }
 .md .tag-plugin.note >.title {
-  font-size: 0.9375rem;
+  font-size: 1.0575rem;
   line-height: 1.2;
   margin-top: 1rem;
 }
@@ -3495,7 +3495,7 @@ article.md li:not([class]) >a:not([class]):hover {
   text-decoration: underline;
 }
 article.md p {
-  font-size: 0.9375rem;
+  font-size: 1.0575rem;
 }
 article.md pre {
   -webkit-font-smoothing: auto;
