@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Case of “Huang Xueqin & Wang Jianbing” have been transfered to Guangzhou
+title: Case of “Huang Xueqin & Wang Jianbing” has been transfered to Guangzhou
   Municipal Procuratorate for Review and Prosecution on March 27
 date: 2022-04-01T06:19:58.460Z
 cover: https://i.imgur.com/QlwXwhh.png
