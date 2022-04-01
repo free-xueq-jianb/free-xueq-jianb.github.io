@@ -7,7 +7,7 @@ cover: https://i.imgur.com/QlwXwhh.png
 ---
 ![](https://i.imgur.com/QlwXwhh.png)
 
-Latest news: The police informed that Huang Xueqin and Wang Jianbing (XueBing) were officially transferred to the Guangzhou Procuratorate for examination and prosecution on 27 March 2022.
+Latest news: The police informed that Huang Xueqin and Wang Jianbing (XueBing) were officially transferred to the Guangzhou Municipal Procuratorate for examination and prosecution on 27 March 2022.
 
 <!-- more -->
 
