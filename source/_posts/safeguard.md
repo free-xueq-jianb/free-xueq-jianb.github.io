@@ -2,12 +2,15 @@
 layout: post
 title: "SafeGuard Defenders: China continues crackdown on feminist movement"
 date: 2022-04-02T13:58:03.210Z
+cover: https://safeguarddefenders.com/sites/default/files/LMfyZNgl_400x400.jpg
 categories:
   - 媒体报道
 tags:
   - English
 ---
 March 19 marked six months of arbitrary detention for #MeToo activist and independent journalist Huang Xueqin and labor rights advocate Wang Jianbing, following their initial enforced disappearance.
+
+![](https://safeguarddefenders.com/sites/default/files/LMfyZNgl_400x400.jpg)
 
 On September 19, 2021, the Guangzhou police forcibly took Huang Xueqin and Wang Jianbing on suspicion of "inciting subversion of state power" over a weekly friends gathering at Wang Jianbing’s house deemed “subversive to state power”. They were immediately placed under Residential Surveillance at a Designated Location (RSDL) and it was not until early November 2021 that their family members received formal "arrest notices" issued by the Guangzhou Public Security Bureau.
 
@@ -24,6 +27,8 @@ While Peng Shuai’s disappearance from public view and coerced statements follo
 Huang Xueqin and Wang Jianbing were both taken on September 19, 2021, one day before Xueqin was expected to travel to the UK under a scholarship at the University of Sussex with the UK Chevening Committee. They were initially disappeared into a regime favorite for human rights defenders: Residential Surveillance at a Designated.
 
 Only through the continuous police summons and questioning of fellow activists did Xuebing's family and friends learn about the police's charges and intentions against the two, as despite legal provisions no detention notice was sent until October 27, 2021, when the two were officially charged with “inciting subversion of state power” and said to be detained at the Guangzhou No. 1 Detention Center.
+
+![](https://safeguarddefenders.com/sites/default/files/1500x500.jpg)
 
 However, at the end of January 2021, it was learned that Huang Xueqin was actually being detained in the Guangzhou No. 2 Detention Center, and whether Wang Jianbing was actually being detained in the No. 1 Detention Center remains unknown. Xueqin's family and friends have tried several times over the past six months to send money to Xueqin and Jianbing in the detention center, but to no avail. This strongly suggests that the place of their detention may not match the location provided or that they were detained under pseudonyms as denounced in our report Access Denied – China’s Vanishing Suspects. Family, friends and lawyers have no way of knowing the actual detention location and physical health of the two of them.
 
