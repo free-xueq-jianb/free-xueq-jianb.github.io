@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 联合国公布今年2月发给中国政府的信件，对人权捍卫者王建兵被剥夺自由表示关注
+title: 联合国公布今年2月寄信给中国政府，对人权捍卫者王建兵被剥夺自由表示关注
 date: 2022-04-11T02:23:13.987Z
 cover: https://i.imgur.com/OEA8P1m.png
 categories:
