@@ -3,12 +3,17 @@ layout: post
 title: Statement on the Six-month Enforced Disappearance and Arbitrary Detention
   of Huang Xueqin and Wang Jianbing, From Friends
 date: 2022-04-11T05:09:50.393Z
+cover: https://i.imgur.com/5a8oAbj.jpg
 categories:
   - 案件通报
 tags:
   - English
 ---
 Up until March 20, 2022, #MeToo activist and independent journalist, Huang Xueqin and labor rights advocate, Wang Jianbing ("Huang & Wang") have been arbitrarily detained for six months after disappearing. On September 19, 2021, the Guangzhou Police forcibly arrested Huang and Wang who were at a weekly gathering at Wang's residence and placed them under residential surveillance at a designated location (RSDL) on suspicion of "inciting subversion of state power". It was not until early November 2021 that Huang and Wang’s family members received a "notice of arrest" issued by the Guangzhou Public Security Bureau. The notice showed that the pair were arrested with formal approval on October 27, and claimed that both of them were detained at the Guangzhou No. 1 Detention Center.
+
+<!-- more -->
+
+![](https://i.imgur.com/5a8oAbj.jpg)
 
 ## 1. Review of Huang & Wang’s half-year detention
 The situation of the pair's arrest and detainment remains in a black box. Since their disappearance on September 19, 2021, Huang and Wang's family and friends had only indirectly learnt about the arrest through other friends who were summoned by police. Though required by law, a "notice of detention" was never sent to their family members after the arrest and it was not until the end of January 2021, four months after their disappearance, when their family members received the notice confirming that Huang and Wang were accused of ‘inciting subversion of state power’ and were placed in Guangzhou No. 1 Detention Center.
