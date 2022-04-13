@@ -2,7 +2,7 @@
 layout: post
 title: 【案件更新】律师成功会见王建兵，王此前被单独隔离关押长达五个多月
 date: 2022-04-11T05:19:19.526Z
-cover: https://i.imgur.com/XC4yk3E.png
+cover: https://i.imgur.com/kVmeZiB.png
 categories:
   - 案件通报
 ---
@@ -18,4 +18,4 @@ categories:
 
 （2022.4.11）
 
-![](https://i.imgur.com/XC4yk3E.png)
+![](https://i.imgur.com/kVmeZiB.png)
