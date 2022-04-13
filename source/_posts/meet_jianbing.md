@@ -2,9 +2,11 @@
 layout: post
 title: 【案件更新】律师成功会见王建兵，王此前被单独隔离关押长达五个多月
 date: 2022-04-11T05:19:19.526Z
-cover: https://i.imgur.com/XC4yk3E.png
+cover: https://i.imgur.com/kVmeZiB.png
 categories:
   - 案件通报
+tags:
+  - 王建兵
 ---
 最新消息：继3月27日 #黄雪琴 和 #王建兵 案（雪饼案）被正式移送 #广州市检察院 审查起诉后，4月1日，王的代理律师萧云阳终于被允许通过视频会见了关押在 #广州市第一看守所 的王建兵。据向王的亲友了解，这是建兵被任意羁押失联近200天后第一次与外界取得联系。萧律师4月6日于检察院进行了部分阅卷。黄雪琴律师迄今仍未成功会见和阅卷。
 
@@ -18,4 +20,4 @@ categories:
 
 （2022.4.11）
 
-![](https://i.imgur.com/XC4yk3E.png)
+![](https://i.imgur.com/kVmeZiB.png)
