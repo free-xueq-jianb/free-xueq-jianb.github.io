@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Lausan】Campaigning from the outside: Reflections from two Chinese activists"
+title: "【LAUSAN】Campaigning from the outside: Reflections from two Chinese activists"
 date: 2022-04-26T14:57:07.624Z
 cover: https://i.imgur.com/Mfl2D6m.png
 categories:
