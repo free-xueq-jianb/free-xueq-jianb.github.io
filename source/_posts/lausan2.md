@@ -67,3 +67,5 @@ The other reason we should still support Chinese activists is to give the activi
 Finally, when we continue to talk about Chinese activists, we allow the Chinese movement to be seen and we write its story. We remind the world and ourselves that there are still so many people fighting within China for justice. This is important because we are amplifying the voices of Chinese activists, but also because these activists can be inspirations for other movements. If these activists cannot be remembered domestically, then they need to be remembered internationally. 
 
 This remembrance is also a form of education. I believe more and more people in China will become activists in the future. Issues like workplace justice, the lack of protections for gig workers and the plight of students who face economic crises are major issues right now. When their consciousness is raised, they will need to learn the tactics for social movements from the activists now. Without efforts to document the history of Chinese social movements, there is no future for Chinese activism.
+
+[Source](https://lausan.hk/2022/campaigning-from-the-outside/)
