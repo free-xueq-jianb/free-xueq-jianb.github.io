@@ -1,11 +1,15 @@
 ---
 layout: post
-title: lausan2
+title: "【Lausan】Campaigning from the outside: Reflections from two Chinese activists"
 date: 2022-04-26T14:57:07.624Z
-cover: null
+cover: https://i.imgur.com/Mfl2D6m.png
 categories:
   - 媒体报道
+tags:
+  - English
 ---
+![](https://i.imgur.com/Mfl2D6m.png)
+
 > Interviewer’s note: The campaign to free the feminist activist and journalist Huang Xueqin and the labor campaigner Wang Jianbing has been ongoing since September 2021, when they were both detained for hosting gatherings to discuss current affairs. While in detention, the pair were charged with inciting subversion of state power. Since then, their friends around the world have organized campaigns and actions to support them, starting petitions, sending postcards to them in jail and organizing demonstrations. 
 
 > Here, Yaya and Tony, two activists in the global campaign group—one new to activism and one veteran organizer—share reflections on their work with the group and what it means for the future of Chinese social movements. As the movement in Hong Kong faces increasingly similar challenges, the lessons shared by these activists will no doubt help Hongkongers strengthen their movement, offer better solidarity to mainland allies and weather the storms to come.
