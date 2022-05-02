@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pressday
+title: 5月3日世界新闻自由日，我们呼吁中国政府释放雪琴、释放建兵 ！WorldPressFreedomDay, FreeXueqin!
 date: 2022-05-03T00:10:58.334Z
 cover: https://i.imgur.com/7RCLWsf.png
 categories:
