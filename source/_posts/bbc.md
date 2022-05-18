@@ -1,6 +1,6 @@
 ---
 layout: post
-title: bbc
+title: 【BBC报导】黄雪琴和王建兵：“失踪”中国女权记者和劳工维权人面临审判 英国机构被指“无为”
 date: 2022-05-18T13:16:41.293Z
 cover: https://i.imgur.com/gSPSbA0.png
 categories:
