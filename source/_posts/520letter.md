@@ -2,9 +2,12 @@
 layout: post
 title: 【雪饼的朋友心声】祥子：今天是我的生日，我写给雪琴和煎饼的信
 date: 2022-05-20T13:33:11.849Z
+cover: https://i.imgur.com/RuFqxMM.png
 categories:
   - 雪饼的朋友心声
 ---
+![](https://i.imgur.com/RuFqxMM.png)
+
 煎饼，雪琴。
 
 当我在电脑打下你们两个人的名字时，我的手指就再难以动弹。在过去所有失去的日子里，我从来不敢正面地面对你们两个人的名字。我只敢用“雪饼”来称呼你们。因为一旦我完整地念出你们的名字的时候，我就忍不住流泪，包括此刻敲打出来你们的名字。
@@ -36,3 +39,7 @@ categories:
 煎饼、雪琴，我们都在想着你们。即便网络上几乎找不到你们的痕迹，你们不会被忘记。
 
 来源：祥子的FB
+
+![](https://i.imgur.com/YsJOFNE.png)
+
+![](https://i.imgur.com/Lo5nyHp.png)
