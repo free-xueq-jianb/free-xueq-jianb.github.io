@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Chevening
+title: A Letter to Chevening Fellows
 date: 2022-05-20T05:00:49.331Z
+categories:
+  - 案件通报
+tags:
+  - English
 ---
 Dear Chevening fellows,
 
@@ -28,5 +32,4 @@ Let's stay connected and in solidarity!
 
 ![](https://i.imgur.com/MNoX6uz.png)
 
-signal-2022-04-01-132852_001.png
-[Transferred to Procuratorate Office on 27 Match 2022]
+![](https://i.imgur.com/QMeL4mL.png)
