@@ -1,7 +1,13 @@
 ---
 layout: post
-title: 33 years after Tiananmen, China crushes movements before they can start
+title: 【Washington Post】 33 years after Tiananmen, China crushes movements
+  before they can start
 date: 2022-06-07T04:07:56.735Z
+cover: https://i.imgur.com/RJHdNOs.png
+categories:
+  - 媒体报道
+tags:
+  - English
 ---
 Once a week, Chinese activists Sophia Huang Xueqin and Wang Jianbing gathered friends and acquaintances together, mostly just to talk.
 
