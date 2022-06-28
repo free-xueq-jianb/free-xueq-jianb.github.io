@@ -1,6 +1,7 @@
 ---
 layout: post
-title: iwmf-award
+title: Xueqin (Sophia) Huang was awarded the IWMF Wallis Annenberg Justice for
+  Women Journalists Award
 date: 2022-06-28T03:43:54.877Z
 cover: https://i.imgur.com/8TLOgi9.png
 categories:
