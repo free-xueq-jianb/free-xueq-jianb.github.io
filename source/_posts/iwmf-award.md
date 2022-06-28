@@ -3,7 +3,7 @@ layout: post
 title: Xueqin (Sophia) Huang was awarded the IWMF Wallis Annenberg Justice for
   Women Journalists Award
 date: 2022-06-28T03:43:54.877Z
-cover: https://i.imgur.com/8TLOgi9.png
+cover: https://i.imgur.com/nTvF83B.png
 categories:
   - 媒体报道
 tags:
@@ -13,7 +13,7 @@ Having spent her career reporting on injustice and corruption in China – inclu
 
 <!-- more -->
 
-![](https://i.imgur.com/NsSma2j.png)
+![](https://i.imgur.com/2Tic7KO.png)
 
 ---
 
@@ -30,5 +30,3 @@ About the International Women’s Media Foundation
 The International Women’s Media Foundation (IWMF) is the only global non-profit organization that offers emergency support, safety training, global reporting opportunities, and funding for both staff reporters and freelancers, all specifically tailored for women and gender diverse journalists.
 
 [source](https://www.iwmf.org/2022/06/iwmf-announces-2022-courage-in-journalism-award-winners/)
-
-![](https://i.imgur.com/8TLOgi9.png)
