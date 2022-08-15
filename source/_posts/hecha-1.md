@@ -2,7 +2,7 @@
 layout: post
 title: 【喝茶经验】与雪饼同在“喝茶”问卷调查结果发布！
 date: 2022-08-15T05:05:28.266Z
-cover: https://i.imgur.com/SKsaazf.png
+cover: https://i.imgur.com/7XUMDsJ.jpg
 categories:
   - 雪饼的朋友心声
 tags:
