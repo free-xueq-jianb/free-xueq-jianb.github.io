@@ -14,8 +14,6 @@ tags:
 
 <!-- more -->
 
----
-
 ## 订阅Podcast：
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/5C05EubxlDlANTWQVEcmWt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -24,7 +22,6 @@ tags:
 
 ​<audio id="audio" controls="" preload="none"><source id="mp3" src="../../../../podcast1.mp3"></audio>
 
----
 
 ## 建兵的诗 （未依順序）
 
