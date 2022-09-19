@@ -18,7 +18,7 @@ tags:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/5C05EubxlDlANTWQVEcmWt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-## 直接聆听/下载第一集：
+## 直接聆听/下载第一集(墙内可[分享](https://github.com/free-xueq-jianb/free-xueq-jianb.github.io/raw/main/source/podcast1.mp3))：
 
 ​<audio id="audio" controls="" preload="none"><source id="mp3" src="https://github.com/free-xueq-jianb/free-xueq-jianb.github.io/raw/main/source/podcast1.mp3"></audio>
 
