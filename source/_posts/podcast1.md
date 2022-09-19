@@ -1,6 +1,6 @@
 ---
 layout: post
-title: podcast1
+title: 一起為雪餅朗讀 Read for XueBing 第一集：建兵的诗
 date: 2022-09-19T08:53:28.920Z
 cover: https://i.imgur.com/EcUuHrS.png
 categories:
