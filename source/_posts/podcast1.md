@@ -18,7 +18,7 @@ tags:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/5C05EubxlDlANTWQVEcmWt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-## 直接聆听/下载第一集：
+## 直接聆听/下载第一集(墙内可[分享](https://github.com/free-xueq-jianb/free-xueq-jianb.github.io/raw/main/source/podcast1.mp3))：
 
 ​<audio id="audio" controls="" preload="none"><source id="mp3" src="https://github.com/free-xueq-jianb/free-xueq-jianb.github.io/raw/main/source/podcast1.mp3"></audio>
 
@@ -455,13 +455,11 @@ tags:
 
 2015.6.4
 
-----------
 ## 写信给雪饼
 
 广东省广州市白云区庆槎路189号广州市第三看守所E-18仓，邮编：510430，收信人：王建兵
 广东省广州市白云区庆槎路189号广州市第三看守所，邮编：510430，收信人：黄雪琴
 
-----------
 ## 跟进雪饼
 
 网站
