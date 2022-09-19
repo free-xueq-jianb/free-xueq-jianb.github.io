@@ -20,7 +20,7 @@ tags:
 
 ## 直接聆听/下载第一集：
 
-​<audio id="audio" controls="" preload="none"><source id="mp3" src="../../../../podcast1.mp3"></audio>
+​<audio id="audio" controls="" preload="none"><source id="mp3" src="https://github.com/free-xueq-jianb/free-xueq-jianb.github.io/raw/main/source/podcast1.mp3"></audio>
 
 
 ## 建兵的诗 （未依順序）
