@@ -12,7 +12,7 @@ tags:
 
 #FreeSophiaHuang at The Washington Post this Sunday! This full-page ad will be on Sunday(10/9)'s newspaper section A. Please GET one copy, TAKE a photo of the ad with you, and SHARE with us. This will be a crucial support to campaign for #HuangXueqin and #WangJianbing's Freedom!
 
-!﻿[](https://i.imgur.com/PEWizng.png)
+![](https://i.imgur.com/PEWizng.png)
 
 Facebook
 facebook.com/Freexueqinjianbing
