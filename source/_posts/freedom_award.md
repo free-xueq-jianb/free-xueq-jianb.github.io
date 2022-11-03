@@ -20,4 +20,4 @@ Huang has worked to promote women’s rights, and to document and expose sexual 
 
 On 19 September 2021, Huang disappeared and stopped responding to phone calls from family and friends. Two months later, in November, it was confirmed that she had been detained along with labour activist Wang Jianbing and charged with “inciting subversion of state power”. She was due to travel to the UK to study development studies at the University of Sussex after receiving a Chevening Scholarship. She remains in detention and is now held in the No. 1 Detention Centre in Guangzhou.
 
-[来源﻿](https://www.indexoncensorship.org/2022/10/journalism-2022-winner/)
+[Source](https://www.indexoncensorship.org/2022/10/journalism-2022-winner/)
