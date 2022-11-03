@@ -1,6 +1,6 @@
 ---
 layout: post
-title: freedom_award
+title: Sophia Huang Xueqin is the winner of the 2022 Freedom of Expression Award
 date: 2022-11-03T16:01:18.316Z
 cover: https://i.imgur.com/IhZP4BW.png
 categories:
