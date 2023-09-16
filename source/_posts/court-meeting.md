@@ -1,6 +1,6 @@
 ---
 layout: post
-title: court-meeting
+title: 【案件更新】雪饼案将于9月19日上午在广州市中级人民法院召开庭前会议
 date: 2023-09-16T05:27:17.325Z
 categories:
   - 案件通报
