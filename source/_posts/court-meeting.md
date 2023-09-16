@@ -2,7 +2,7 @@
 layout: post
 title: 【案件更新】雪饼案将于9月19日上午在广州市中级人民法院召开庭前会议
 date: 2023-09-16T05:27:17.325Z
-cover: /source/images/uploads/f6hcty1wgaa2zpn.jpeg
+cover: https://i.imgur.com/JBaA8iu.jpg
 categories:
   - 案件通报
 ---
@@ -14,3 +14,4 @@ categories:
 
 临开庭之际，我们再次表达我们的立场：雪饼案是完全无中生有的政治冤案，违背程序正义和中国宪法。法院必须拒绝采纳和采信警方经非法渠道获得的证据笔录，当局必须立即无罪释放两人。任何的强迫认罪或者因拒绝认罪而加重刑期的行为都是毫无正义的政治打压。
 
+!﻿[](https://i.imgur.com/JBaA8iu.jpg)
