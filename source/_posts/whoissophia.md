@@ -3,6 +3,8 @@ layout: post
 title: 谁是黄雪琴？
 date: 2023-09-25T05:27:37.108Z
 cover: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F569a7e97-3139-4154-9c9d-bb669b538a4b_4143x2762.jpeg
+categories:
+  - 雪饼的朋友心声
 ---
 > ﻿** 这里讲述的事情，和黄雪琴的办案材料上记下的事情，是同一些事情。我们面对的黄雪琴，和警察面对的黄雪琴，是同一个人。如果这是罪证，我们也希望“罪证”能以另外一种面貌呈现。这是我们讲述的历史。**
 
