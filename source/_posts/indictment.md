@@ -11,8 +11,6 @@ tags:
 
 **Indictment**
 
- 
-
 Guangzhou Procuratorate Criminal Prosecution No. Z11 (2022) 
 
 Defendant Huang Xueqin, female, born on *\[intentionally left blank]*, citizen identification number *\[intentionally left blank]*, of Han descent, master's degree holder, registered address *\[intentionally left blank]*, was criminally detained by the Guangzhou City Public Security Bureau of Guangdong Province on September 20, 2021, on suspicion of subverting state power. On October 27 of the same year, this Procuratorate approved her formal arrest on charges of inciting subversion of state power, and she was arrested by the Guangzhou City Public Security Bureau of Guangdong Province on the same day. 
@@ -37,29 +35,19 @@ On September 19, 2021, public security agency arrested defendants Huang Xueqin a
 
 The evidence for establishing the above facts is as follows:
 
-1) Cash, bank cards and other physical evidence; 
-
-2) Documentary evidence such as household registration information and the police report; 
-
-3) Witness testimony; 
-
-4) The confessions and defenses of defendants Huang Xueqin and Wang Jianbing; 
-
-5) Guangzhou Haizhu District Public Security Forensic Identification Center (DNA) Forensic Identification Certificate No. 01818 (2021) and other identification materials; 
-
-6) Records of examination, inspection, identification, et cetera; and 
-
-7) Audio-visual materials and electronic data from the courseware and extracted from the internet.
+1. Cash, bank cards and other physical evidence; 
+2. Documentary evidence such as household registration information and the police report; 
+3. Witness testimony; 
+4. The statements and defenses of defendants Huang Xueqin and Wang Jianbing; 
+5. Guangzhou Haizhu District Public Security Forensic Identification Center (DNA) Forensic Identification Certificate No. 01818 (2021) and other identification materials; 
+6. Records of examination, inspection, identification, et cetera; and 
+7. Audio-visual materials and electronic data from the courseware and extracted from the internet.
 
 This Procuratorate holds that the defendants Huang Xueqin and Wang Jianbing ignored national laws and incited subversion of state power and overthrow of the socialist system by spreading rumors, slandering, and other means, and that their acts violated the second paragraph of Article 105 of the Criminal Law of the People's Republic of China. In accordance with the provisions of Article 176 of the Criminal Procedure Law of the People's Republic of China, file a public prosecution and request a sentence according to law.
-
- 
 
 Sincerely submitted to,
 
 The Intermediate People’s Court of Guangzhou City, Guangdong Province
-
- 
 
 The People's Procuratorate of Guangzhou City, Guangdong Province (stamp)
 
@@ -68,8 +56,6 @@ Prosecutors: Zhu Jialin & Cai Yingying
 Assistant Prosecutor: \[Words unclear due to stamp]
 
 August 11, 2022
-
-
 
 [S﻿ource](https://new.hrichina.org/press-work/translation-indictment-of-activists-huang-xueqin-and-wang-jianbing-1)
 
