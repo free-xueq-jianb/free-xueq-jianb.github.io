@@ -2,6 +2,7 @@
 layout: post
 title: Who is Huang Xueqin?
 date: 2024-01-28T06:24:24.124Z
+cover: https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c141d79-c4b9-4348-bc51-c0836b8ae6f0_900x383.png
 categories:
   - 媒体报道
 tags:
@@ -36,13 +37,7 @@ The events described here are the same as those in Huang Xueqin's criminal case 
 
 * * *
 
-[
-
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1426ed35-3717-49b0-9720-c4b2cbb58d2b_700x394.webp)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1426ed35-3717-49b0-9720-c4b2cbb58d2b_700x394.webp)
 
 Photo of Huang Xueqin holding a #MeToo sign, taken in Singapore.
 
@@ -84,13 +79,7 @@ The way things developed differed from Huang Xueqin's original plan. She had tho
 
 The topic, whether in the news industry or universities, had poked at the sensitive areas of the regime. On February 24, 2018, ATSH posted a notice saying that it had completed an investigation report on "Sexual Harassment of Female Journalists in China" in cooperation with the Guangzhou Gender Education Center. Four days later, on February 28, the last day of the month, the ATSH account, along with all of its articles, was deleted.
 
-[
-
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F546e621d-2b45-42ab-b4df-896620f4d96c_2650x3975.jpeg)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F546e621d-2b45-42ab-b4df-896620f4d96c_2650x3975.jpeg)
 
 These white sneakers represent photographer Fang Yue’s impression of Huang Xueqin. She took a set of photos to imagine that Huang Xueqin was still living freely in Guangzhou.
 
@@ -116,13 +105,7 @@ In fact, Huang Xueqin was rather like a social worker herself. She once said tha
 
 Beginning in summer 2018, Huang Xueqin became the subject of surveillance. The police stopped skirting around and approached Huang Xueqin directly. They intervened in her relationships with her collaborators, and advised her not to write too much about sexual harassment. After her voice was repeatedly silenced, she had to go underground, transforming from an observer who spoke out publicly into an activist. She also became increasingly involved in the feminist community: referring cases to feminist lawyers, participating in feminist activist petitions, and helping package and mail joint letters. During the Two Sessions[2](https://women4china.substack.com/p/who-is-huang-xueqin#footnote-2-141028818) in 2019, she and her associates sent more than 390 letters to representatives and committee members, calling on the entire society to establish a mechanism to prevent sexual harassment.
 
-[
-
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe40a612d-2539-48cd-9102-e92d3b60dfcb_960x731.jpeg)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe40a612d-2539-48cd-9102-e92d3b60dfcb_960x731.jpeg)
 
 Photo of Huang Xueqin before she was detained
 
@@ -164,13 +147,7 @@ In the first year of the pandemic, after Guangzhou’s lockdown was lifted durin
 
 “She really moves forward courageously, and has a kind of innocence about her.”
 
-[
-
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98d99cdf-2a6a-4442-b8d3-d6c90897bc8d_2650x3968.jpeg)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98d99cdf-2a6a-4442-b8d3-d6c90897bc8d_2650x3968.jpeg)
 
 Kanglu Textile Area, across from Room 202, No. 149 Xingang West Road, Haizhu District
 
