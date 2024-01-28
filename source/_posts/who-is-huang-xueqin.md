@@ -2,6 +2,7 @@
 layout: post
 title: Who is Huang Xueqin?
 date: 2024-01-28T06:24:24.124Z
+cover: https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c141d79-c4b9-4348-bc51-c0836b8ae6f0_900x383.png
 categories:
   - 媒体报道
 tags:
