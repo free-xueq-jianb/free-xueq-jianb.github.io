@@ -383,3 +383,5 @@ The intersection where Huang Xueqin once walked with her friends
 [5]“Drinking tea” is a common euphemism for police interrogation in China. Frequent casual interrogations of anyone who comes on the authorities’ radar, not just criminal suspects, is incredibly common.
 
 [6]Terminus 49 was a crowd-sourced archive of materials censored by the Chinese authorities, which came to an abrupt end in 2019 when the two co-founders were arrested and charged with “picking quarrels and provoking trouble.”
+
+[S﻿ource: WOMEN我们](https://women4china.substack.com/p/who-is-huang-xueqin#footnote-anchor-1-141028818)
