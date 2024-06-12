@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【懒人包】雪饼事件：黄雪琴、王建兵
+title: 【懒人包】雪饼案：黄雪琴、王建兵
 date: 2024-06-12T06:24:24.124Z
 cover: https://free-xueq-jianb.github.io/images/uploads/懒人包/懒人包.001.jpeg
 categories:
