@@ -33,7 +33,7 @@ var styles = `
 	padding-top:7px;
 	padding-left:10px;
     display: inline-block;
-    font-size:28px;
+    font-size:22px;
     padding-right:15px;
 }
 #clockdiv > span{
@@ -44,7 +44,7 @@ var styles = `
     margin-bottom:3px;
     padding-left:10px;
     padding-right:10px;
-    font-size:60px;
+    font-size:50px;
 }
 #smalltext{
     padding-right:8px !important;
