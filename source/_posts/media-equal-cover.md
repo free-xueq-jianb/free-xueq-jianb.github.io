@@ -17,6 +17,8 @@ Call for Equal-Handed Coverage on #XueBing
 
 引发“雪饼案”的一个关键政治诱因，是劳工行动者王建兵每周四在其家中组织的日常聚会。在经历了过去十多年公民社会的低沉和挫败后，煎饼认为在这些艰难时期重新凝结社群、促进青年行动者的网络和互助是至关重要的。他希望通过定期聚会的方式重新建立连结、探索新的公民社群行动方式。雪琴和建兵两人在重建广州的公民社会中都共同发挥了至关重要的作用，理应获得同样的尊重和平衡报道。
 
+![](https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/448465131_472389962034013_7487700985796422624_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5PWvLlYRMroQ7kNvgHCgHgE&_nc_ht=scontent.ftpe7-3.fna&oh=00_AYCxDrWFrd6D5Fkq-ctNXBNJEpZ4fhssR9fmmkfw_hNx4w&oe=6674EE01)
+
 We have observed that most media coverage and statements predominantly focuses on #HuangXueqin, while #WangJianbing, the low-profile labor activist, involved in the same case, is often only briefly mentioned or overlooked entirely.
 We regret this uneven coverage of the #XueBing case and, as friends of both #HuangXueqin and #WangJianbing, call on the media and organizations to provide even-handed coverage of the two, both of whom have faced unjust and severe punishments.
 A key political reason behind the #XueBing case was the weekly gatherings initially organized by labor activist #WangJianbing at his apartment. Having witnessed repression in civil society for years, Wang believed it was essential to reunite people, rebuild connections & networks in civil society, and provide mutual support among young activists during the challenging times. He hoped to reestablish connections and explore new forms of activism. 
