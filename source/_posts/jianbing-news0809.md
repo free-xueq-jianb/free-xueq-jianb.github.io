@@ -2,7 +2,7 @@
 layout: post
 title: 煎饼的健康近况更新
 date: 2024-08-09T12:24:24.124Z
-cover: https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/454675060_505981188674890_2836198209814845186_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CrWm8VOLJSAQ7kNvgHTkoMq&_nc_ht=scontent.ftpe7-3.fna&oh=00_AYAQpnlfPLV2FcF8ODa5qi6msTnWtgLq66v4zLlMSU1IeQ&oe=66BB830C
+cover: https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/454675060_505981188674890_2836198209814845186_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wNcrjhP7-XAQ7kNvgFQRSv6&_nc_ht=scontent-tpe1-1.xx&oh=00_AYC-r7cniNwM49QwFV95-zJpJueGuG1X0mQ6JM5S0cfcRg&oe=66D10B8C
 categories:
   - 案件通报
 tags:
@@ -37,4 +37,4 @@ tags:
 
 据了解，这一段时间以来，煎饼整体上精神面貌呈较好方向发展，心态很平和，也开始积极与号友做一些身体锻炼。他迫切希望可以读到更多的书籍。他提出希望可以阅读一些哲学的书籍，书目包括汉娜·阿伦特的《人的境况》以及查尔斯·泰勒的 《本真性的原理》，此外还希望可以读到上野千鹤子的 《厌女》一书（此前他读过一部分，但没有读完，念念不忘）。
 
-![](https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/454675060_505981188674890_2836198209814845186_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CrWm8VOLJSAQ7kNvgHTkoMq&_nc_ht=scontent.ftpe7-3.fna&oh=00_AYAQpnlfPLV2FcF8ODa5qi6msTnWtgLq66v4zLlMSU1IeQ&oe=66BB830C)
+![](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/454675060_505981188674890_2836198209814845186_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wNcrjhP7-XAQ7kNvgFQRSv6&_nc_ht=scontent-tpe1-1.xx&oh=00_AYC-r7cniNwM49QwFV95-zJpJueGuG1X0mQ6JM5S0cfcRg&oe=66D10B8C)
