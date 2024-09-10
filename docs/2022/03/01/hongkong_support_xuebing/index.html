@@ -1,46 +1,293 @@
-.l_body {
-  display: flex;
-  margin: auto;
-  padding: 0 var(--gap-l);
-  justify-content: center;
-}
-.l_body .l_left {
-  z-index: 8;
-  width: var(--width-left);
-  flex-shrink: 0;
-  position: sticky;
-  position: -webkit-sticky;
-  top: 0;
-}
-.l_body .l_main {
-  flex-shrink: 1;
-  flex-grow: 1;
-  width: 320px;
-  max-width: var(--width-main);
-}
-@media screen and (max-width: $device-tablet) {
-  .mobile-only {
-    display: block !important;
+<!DOCTYPE html>
+<html lang='zh-CN'>
+
+<head>
+  <meta name="generator" content="Hexo 5.4.0">
+  <meta charset="utf-8">
+  
+
+  <meta http-equiv='x-dns-prefetch-control' content='on' />
+  <link rel='dns-prefetch' href='https://cdn.jsdelivr.net'>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+
+  <meta name="renderer" content="webkit">
+  <meta name="force-rendering" content="webkit">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta name="HandheldFriendly" content="True" >
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="theme-color" content="#f8f8f8">
+  <title>在香港，我们撑雪饼，为自由！ - 关注雪饼: 黄雪琴 & 王建兵 Free Huang XueQin & Wang JianBing</title>
+
+  
+    <meta name="description" content="香港，這一座充滿自由與反抗精神的城市，曾經持續滋養著大陸南方的民間社會。啟蒙於廣州的雪琴和煎餅（雪餅），也正是在這樣的薰陶之下投身公民社會建設，為失語者發聲，為被壓迫者倡議。  香港，這一座有著雪琴沈重痕跡的城市。2018年，雪琴撰寫的《中國女記者職場性騷擾狀況調查報告》在香港發佈，揭露職場中女性報導者的性別壓迫處境，而此前雪琴介入的北航羅茜茜一案則開啟了中國#MeToo運動的大浪潮。2019年，">
+<meta property="og:type" content="article">
+<meta property="og:title" content="在香港，我们撑雪饼，为自由！">
+<meta property="og:url" content="https://free-xueq-jianb.github.io/2022/03/01/hongkong_support_xuebing/index.html">
+<meta property="og:site_name" content="关注雪饼: 黄雪琴 &amp; 王建兵 Free Huang XueQin &amp; Wang JianBing">
+<meta property="og:description" content="香港，這一座充滿自由與反抗精神的城市，曾經持續滋養著大陸南方的民間社會。啟蒙於廣州的雪琴和煎餅（雪餅），也正是在這樣的薰陶之下投身公民社會建設，為失語者發聲，為被壓迫者倡議。  香港，這一座有著雪琴沈重痕跡的城市。2018年，雪琴撰寫的《中國女記者職場性騷擾狀況調查報告》在香港發佈，揭露職場中女性報導者的性別壓迫處境，而此前雪琴介入的北航羅茜茜一案則開啟了中國#MeToo運動的大浪潮。2019年，">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://i.imgur.com/4W2GKPe.png">
+<meta property="og:image" content="https://i.imgur.com/Ofx9QNd.png">
+<meta property="og:image" content="https://i.imgur.com/kfESW9V.png">
+<meta property="og:image" content="https://i.imgur.com/wWzLbHu.png">
+<meta property="og:image" content="https://i.imgur.com/B8qkT3Q.png">
+<meta property="og:image" content="https://i.imgur.com/Cu87PA9.png">
+<meta property="og:image" content="https://i.imgur.com/C39XiiR.png">
+<meta property="article:published_time" content="2022-02-28T21:01:57.148Z">
+<meta property="article:modified_time" content="2022-03-01T05:10:42.998Z">
+<meta property="article:author" content="FreeThem">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://i.imgur.com/4W2GKPe.png">
+  
+  
+
+  <!-- feed -->
+  
+    <link rel="alternate" href="/sitemap.xml" title="关注雪饼: 黄雪琴 & 王建兵 Free Huang XueQin & Wang JianBing" >
+  
+
+  
+    
+<link rel="stylesheet" href="/css/main.css">
+
+  
+
+  
+
+  
+    
+      <meta property="og:image" content="https://i.imgur.com/mguGXvv.jpg">
+    
+      <meta name="google-site-verification" content="JTT-ApcJkrAGDSgcL8s5toLCBJt00ptmkxAzuu2tjWE" />
+    
+      <meta name="google-site-verification" content="6BTDC8Q3SLyQ1G7EKAeYoyM06GE4wPKsY66HIPAKDzo" />
+    
+      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    
+      <script src="https://free-xueq-jianb.github.io/date_count.js"></script>
+    
+  
+<link rel="alternate" href="/sitemap.xml" title="关注雪饼: 黄雪琴 & 王建兵 Free Huang XueQin & Wang JianBing" type="application/atom+xml">
+</head>
+
+<body>
+  
+
+
+  <div class='l_body' id='start'>
+    <aside class='l_left' layout='post'>
+    
+
+
+<header class="header">
+
+<div class="logo-wrap"><a class="title" href="/%3Cp%20style=%22font-size:1.7rem;margin:%200em;%22%3E%3Ca%20class%20=%20%22title%22%20href=%22/%22%3E%E5%85%B3%E6%B3%A8%E9%9B%AA%E9%A5%BC:%3Cbr%3E%E9%BB%84%E9%9B%AA%E7%90%B4%20%E7%8E%8B%E5%BB%BA%E5%85%B5%3C/a%3E%3C/p%3E%3Cp%20style=%22margin:%200em;%22%3E%3Ca%20class%20=%20%22title%22%20href=%22/%22%20style=%22font-size:1.3rem;%22%3EFree%20Huang%20XueQin%20&%20Wang%20JianBing%3C/a%3E%3C/p%3E"><div class="main"><p style="font-size:1.7rem;margin: 0em;"><a class = "title" href="/">关注雪饼:<br>黄雪琴 王建兵</a></p><p style="margin: 0em;"><a class = "title" href="/" style="font-size:1.3rem;">Free Huang XueQin & Wang JianBing</a></p></div></a></div>
+<nav class="menu dis-select"><a class="nav-item active" href="/">文章</a><a class="nav-item" href="/self/">雪饼简介</a><a class="nav-item" href="/links/">事件</a><a class="nav-item" href="/pics/">图宣</a></nav></header>
+
+<div class="widgets">
+
+
+<div class="widget-wrap" id="recent"><div class="widget-header cap dis-select"><span class="name">最近更新</span><a class="cap-action" id="rss" title="Subscribe" href="/sitemap.xml"><svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="8938"><path d="M800.966 947.251c0-404.522-320.872-732.448-716.69-732.448V62.785c477.972 0 865.44 395.987 865.44 884.466h-148.75z m-162.273 0h-148.74c0-228.98-181.628-414.598-405.678-414.598v-152.01c306.205 0 554.418 253.68 554.418 566.608z m-446.24-221.12c59.748 0 108.189 49.503 108.189 110.557 0 61.063-48.44 110.563-108.188 110.563-59.747 0-108.18-49.5-108.18-110.563 0-61.054 48.433-110.556 108.18-110.556z" p-id="8939"></path></svg></a></div><div class="widget-body fs14"><div class="line"></div><a class="more-item" href="/2024/08/09/jianbing-news0809/"><div class="cap"><time>2024-09-11</time><span>案件通报</span></div><span class="title">煎饼的健康近况更新</span></a><div class="line"></div><a class="more-item" href="/2024/09/11/yishen-xueqin/"><div class="cap"><time>2024-09-11</time><span>案件通报</span></div><span class="title">黄雪琴一审自辩书</span></a><div class="line"></div><a class="more-item" href="/2024/08/26/sixiangfan/"><div class="cap"><time>2024-08-25</time><span>雪饼的朋友心声</span></div><span class="title">作为思想犯的王建兵与黄雪琴：在互助与连结中获得滋养的灵魂</span></a><div class="line"></div><a class="more-item" href="/2024/08/23/xuebing-baodao-en/"><div class="cap"><time>2024-08-25</time><span>雪饼的朋友心声</span></div><span class="title">On the Unbalanced Coverage of the XueBing Case</span></a><div class="line"></div><a class="more-item" href="/2024/08/23/xuebing-baodao/"><div class="cap"><time>2024-08-25</time><span>雪饼的朋友心声</span></div><span class="title">「雪饼案」中的媒体和倡议失衡：社会抗争的叙事，出现了什么问题？</span></a></div></div>
+
+
+
+</div>
+
+
+    </aside>
+    <div class='l_main'>
+      
+
+      
+
+
+<div class="bread-nav fs12"><div id="breadcrumb"><a class="cap breadcrumb" href="/">关注雪饼: 黄雪琴 & 王建兵 Free Huang XueQin & Wang JianBing</a><span class="sep"></span><a class="cap breadcrumb" href="/">文章</a><span class="sep"></span><a class="cap breadcrumb-link" href="/categories/%E9%9B%AA%E9%A5%BC%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%BF%83%E5%A3%B0/">雪饼的朋友心声</a></div><div id="post-meta">发布于&nbsp;<time datetime="2022-02-28T21:01:57.148Z">2022-03-01</time></div></div>
+
+<article class='content md post'>
+<h1 class="article-title"><span>在香港，我们撑雪饼，为自由！</span></h1>
+<p>香港，這一座充滿自由與反抗精神的城市，曾經持續滋養著大陸南方的民間社會。啟蒙於廣州的雪琴和煎餅（雪餅），也正是在這樣的薰陶之下投身公民社會建設，為失語者發聲，為被壓迫者倡議。</p>
+<p><img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="https://i.imgur.com/4W2GKPe.png"></p>
+<p>香港，這一座有著雪琴沈重痕跡的城市。2018年，雪琴撰寫的《中國女記者職場性騷擾狀況調查報告》在香港發佈，揭露職場中女性報導者的性別壓迫處境，而此前雪琴介入的北航羅茜茜一案則開啟了中國#MeToo運動的大浪潮。2019年，在那場“反送中”的大型反抗運動中，在場的她，踐行著記者紀錄真相的天職，用親身行動去報導和紀錄這一場被污名化的社會運動，而她也因為這一參與而身陷囹圄，於“黑監獄“中被單獨囚禁三個月（指定居所監視居住）。那是她第一次遭遇打壓，也令她失去了本來已經獲得的香港大學全額獎學金法學碩士的學習機會。</p>
+<p><img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="https://i.imgur.com/Ofx9QNd.png"></p>
+<p>香港於煎餅而言，同樣有著重要的意義。自公民社會劇變之後，他無時無刻感慨著政治的殘暴與民眾的絕望。廣州，香港之畔，是他公益人生的重要基地，從2005年畢業至2021年無辜繫獄，十五年的公益經歷，他在這片土地傾注了生活全部的愛和信念。從支援留守兒童教育和農村發展，到支持城市青少年公民教育和社會實踐，到培育殘障社群的自我賦能和社會創新，以及為職業病/塵肺病工人提供心理、法律和社群支援，煎餅在兩地公民社會的薰陶下，十多年來執著於用微小的行動推進改變。恐懼與行動如影隨形，日漸惡劣的環境下仍未選擇放棄，即便生活一如既往地清貧。</p>
+<p><img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="https://i.imgur.com/kfESW9V.png"></p>
+<p>在雪餅強迫失蹤後的第四個月，我們帶著“她們”重走了香港之路，在海港旁、在馬路邊、在公車上、在公園裡、在高樓大廈間，為她們爭取身體的自由！她們肯定很想再次來到香港看看這裡發生的一切，回憶這裡曾經的自由與精神，共情這片土地所正在遭遇的傷痛。</p>
+<p><img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="https://i.imgur.com/wWzLbHu.png"></p>
+<p><img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="https://i.imgur.com/B8qkT3Q.png"></p>
+<p><img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="https://i.imgur.com/Cu87PA9.png"></p>
+<p>煎餅和雪琴，我知道若你們看到這一切後一定會很失落，但你們也一定不會絕望，更不會摧敗你們對於追求一個更加美好社會的想像。在曾經每週的聚會中，你們讓大家相互撫慰、彼此支持，拋開負能量的一切，我們可以在聚會裡玩耍娛樂、傾訴不快，重拾能量。在你們的內心，即便充滿消極，但卻總是滿懷希望；我們相信，這希望一定會能讓你們健健康康地堅持到最後！</p>
+<p>你們沒有真的在朋友和社會中消失，我們都在等你們回來。</p>
+<p><img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="https://i.imgur.com/C39XiiR.png"></p>
+
+
+<div class="article-footer reveal fs14"><section id="license"><div class="header"><span>许可协议</span></div><div class="body"><p>本文采用 <a target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">署名-非商业性使用-相同方式共享 4.0 国际</a> 许可协议，转载请注明出处。</p>
+</div></section></div>
+
+</article>
+
+<div class="related-wrap reveal" id="read-next"><section class="header cap theme"><span>接下来阅读</span></section><section class="body fs14"><a id="next" href="/2022/02/28/update227/">【案件更新】雪饼截至今日（2022.2.27）侦查羁押已满4个月<span class="note">较早</span></a><div class="line"></div><a id="prev" href="/2022/03/07/london_support_xuebing/">我们在英国声援雪饼！<span class="note">较新</span></a><div class="line"></div><a id="more" href="/archives">检索全部文章</a></section></div>
+
+
+
+
+
+
+
+
+      
+<footer class="page-footer reveal fs12"><hr><div class="text"><p>本博客所有文章除特别声明外，均采用 <a target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> 许可协议，转载请注明出处。</p>
+<p>本站由 <a href="https://free-xueq-jianb.github.io/">@FreeThem</a> 创建，使用 <a target="_blank" rel="noopener" href="https://github.com/xaoxuu/hexo-theme-stellar/tree/1.5.1" title="v1.5.1">Stellar</a> 作为主题。</p>
+</div></footer>
+
+      <div class='float-panel mobile-only blur' style='display:none'>
+  <button type='button' class='sidebar-toggle mobile' onclick='sidebar.toggle()'>
+    <svg class="icon" style="width: 1em; height: 1em;vertical-align: middle;fill: currentColor;overflow: hidden;" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="15301"><path d="M566.407 808.3c26.9-0.1 49.3-20.8 51.6-47.6-1.9-27.7-23.9-49.7-51.6-51.6h-412.6c-28.2-1.4-52.6 19.5-55.5 47.6 2.3 26.8 24.6 47.5 51.6 47.6h416.5v4z m309.3-249.9c26.9-0.1 49.3-20.8 51.6-47.6-2.2-26.8-24.6-47.5-51.6-47.6h-721.9c-27.7-2.8-52.5 17.4-55.3 45.1-0.1 0.8-0.1 1.7-0.2 2.5 0.9 27.2 23.6 48.5 50.7 47.6H875.707z m-103.1-245.9c26.9-0.1 49.3-20.8 51.6-47.6-0.4-28.3-23.2-51.1-51.5-51.6h-618.9c-29.5-1.1-54.3 21.9-55.5 51.4v0.2c1.4 27.8 25.2 49.2 53 47.8 0.8 0 1.7-0.1 2.5-0.2h618.8z" p-id="15302"></path><path d="M566.407 808.3c26.9-0.1 49.3-20.8 51.6-47.6-1.9-27.7-23.9-49.7-51.6-51.6h-412.6c-28.2-1.4-52.6 19.5-55.5 47.6 1.9 27.7 23.9 49.7 51.6 51.6h416.5z m309.3-249.9c26.9-0.1 49.3-20.8 51.6-47.6-2.2-26.8-24.6-47.5-51.6-47.6h-721.9c-27.7-2.8-52.5 17.4-55.3 45.1-0.1 0.8-0.1 1.7-0.2 2.5 0.9 27.2 23.6 48.5 50.7 47.6H875.707z m-103.1-245.9c26.9-0.1 49.3-20.8 51.6-47.6-0.4-28.3-23.2-51.1-51.5-51.6h-618.9c-29.5-1.1-54.3 21.9-55.5 51.4v0.2c1.4 27.8 25.2 49.2 53 47.8 0.8 0 1.7-0.1 2.5-0.2h618.8z" p-id="15303"></path></svg>
+  </button>
+</div>
+
+    </div>
+  </div>
+  <div class='scripts'>
+    <script type="text/javascript">
+  stellar = {
+    // 懒加载 css https://github.com/filamentgroup/loadCSS
+    loadCSS: (href, before, media, attributes) => {
+      var doc = window.document;
+      var ss = doc.createElement("link");
+      var ref;
+      if (before) {
+        ref = before;
+      } else {
+        var refs = (doc.body || doc.getElementsByTagName("head")[0]).childNodes;
+        ref = refs[refs.length - 1];
+      }
+      var sheets = doc.styleSheets;
+      if (attributes) {
+        for (var attributeName in attributes) {
+          if (attributes.hasOwnProperty(attributeName)) {
+            ss.setAttribute(attributeName, attributes[attributeName]);
+          }
+        }
+      }
+      ss.rel = "stylesheet";
+      ss.href = href;
+      ss.media = "only x";
+      function ready(cb) {
+        if (doc.body) {
+          return cb();
+        }
+        setTimeout(function () {
+          ready(cb);
+        });
+      }
+      ready(function () {
+        ref.parentNode.insertBefore(ss, before ? ref : ref.nextSibling);
+      });
+      var onloadcssdefined = function (cb) {
+        var resolvedHref = ss.href;
+        var i = sheets.length;
+        while (i--) {
+          if (sheets[i].href === resolvedHref) {
+            return cb();
+          }
+        }
+        setTimeout(function () {
+          onloadcssdefined(cb);
+        });
+      };
+      function loadCB() {
+        if (ss.addEventListener) {
+          ss.removeEventListener("load", loadCB);
+        }
+        ss.media = media || "all";
+      }
+      if (ss.addEventListener) {
+        ss.addEventListener("load", loadCB);
+      }
+      ss.onloadcssdefined = onloadcssdefined;
+      onloadcssdefined(loadCB);
+      return ss;
+    },
+
+    // 从 butterfly 和 volantis 获得灵感
+    loadScript: (src, opt) => new Promise((resolve, reject) => {
+      var script = document.createElement('script');
+      script.src = src;
+      if (opt) {
+        for (let key of Object.keys(opt)) {
+          script[key] = opt[key]
+        }
+      } else {
+        // 默认异步，如果需要同步，第二个参数传入 {} 即可
+        script.async = true
+      }
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    }),
+
+    // https://github.com/jerryc127/hexo-theme-butterfly
+    jQuery: (fn) => {
+      if (typeof jQuery === 'undefined') {
+        stellar.loadScript(stellar.plugins.jQuery).then(fn)
+      } else {
+        fn()
+      }
+    }
+  };
+  stellar.github = 'https://github.com/xaoxuu/hexo-theme-stellar/tree/1.5.1';
+  stellar.config = {
+    date_suffix: {
+      just: '刚刚',
+      min: '分钟前',
+      hour: '小时前',
+      day: '天前',
+      month: '个月前',
+    },
+  };
+
+  // required plugins (only load if needs)
+  stellar.plugins = {
+    jQuery: 'https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js',
+    sitesjs: '/js/plugins/sites.js',
+    friendsjs: '/js/plugins/friends.js',
+  };
+
+  // optional plugins
+  if ('true' == 'true') {
+    stellar.plugins.lazyload = Object.assign({"enable":true,"js":"https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.3.1/dist/lazyload.min.js","transition":"blur"});
   }
-  .l_body {
-    padding: 0;
+  if ('true' == 'true') {
+    stellar.plugins.swiper = Object.assign({"enable":true,"css":"https://unpkg.com/swiper/swiper-bundle.min.css","js":"https://unpkg.com/swiper/swiper-bundle.min.js"});
   }
-  .l_body .l_left {
-    position: fixed;
-    transform: translateX(-320px);
-    margin: 0;
-    left: 0;
-    background: var(--site-bg);
-    box-shadow: $boxshadow-card-float;
-    z-index: 10;
+  if ('' == 'true') {
+    stellar.plugins.scrollreveal = Object.assign({"enable":null,"js":"https://cdn.jsdelivr.net/npm/scrollreveal@4.0.9/dist/scrollreveal.min.js","distance":"8px","duration":500,"interval":100,"scale":1});
   }
-  .l_body .l_main {
-    max-width: 100%;
+  if ('true' == 'true') {
+    stellar.plugins.preload = Object.assign({"enable":true,"service":"flying_pages","instant_page":"https://cdn.jsdelivr.net/gh/volantis-x/cdn-volantis@4.1.2/js/instant_page.js","flying_pages":"https://cdn.jsdelivr.net/gh/gijo-varghese/flying-pages@2.1.2/flying-pages.min.js"});
   }
-  .l_body.mobile .l_left {
-    transition: transform 0.3s ease-out;
-  }
-  .l_body.mobile.sidebar .l_left {
-    transform: translateX(0px);
-  }
-}
+</script>
+
+<!-- required -->
+
+  
+<script src="/js/main.js" async></script>
+
+
+
+<!-- optional -->
+
+
+
+<!-- inject -->
+
+
+  </div>
+</body>
+</html>
