@@ -32,3 +32,5 @@ The lawyers have announced that they will resolutely sue for procedural violatio
 
 
 ![](https://pbs.twimg.com/media/GXVho0VbgAAKJXa?format=jpg&name=medium)
+
+![](https://free-xueq-jianb.github.io/images/uploads/verdict0913_en.jpg)
