@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【声明】雪饼案二审（终审）判决书全文：秘密宣判、维持原判
-date: 2024-09-13T12:11:24.124Z
+date: 2024-09-14T12:11:24.124Z
 cover: https://free-xueq-jianb.github.io/images/uploads/verdict0914.jpeg
 categories:
   - 案件通报
