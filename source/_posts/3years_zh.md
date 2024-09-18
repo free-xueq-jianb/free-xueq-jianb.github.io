@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 雪饼案被捕三周年声明：我们要继续发声
+title: 雪饼案三周年声明：我们要继续发声
 date: 2024-09-19T12:11:24.124Z
 cover: https://free-xueq-jianb.github.io/images/uploads/3years.jpg
 categories:
@@ -54,16 +54,24 @@ tags:
 
 ## 附录二、关注和支持雪饼
 
-给雪饼留言，不要让雪饼“错过太多外面的美好”： [https://padlet.com/freexqjb/love-for-xuebing-nxu526duh8hjm6y](https://padlet.com/freexqjb/love-for-xuebing-nxu526duh8hjm6y)
+### 给雪饼留言，不要让雪饼“错过太多外面的美好” 
 
-给雪饼寄明信片（如果希望传递给“关心”给狱方，可以尽量表达你的愤怒；如果希望“有机会”可以到雪饼手里，则“温和隐晦”表达你的关心和思念）
+留言地址：[https://padlet.com/freexqjb/love-for-xuebing-nxu526duh8hjm6y](https://padlet.com/freexqjb/love-for-xuebing-nxu526duh8hjm6y)
+
+### 给雪饼寄明信片
+
+如果希望传递给“关心”给狱方，可以尽量表达你的愤怒；如果希望“有机会”可以到雪饼手里，则“温和隐晦”表达你的关心和思念
 
 黄雪琴地址：广州市白云区石井街道办广海路狮岗北街9号广州第一看守所 2311仓 黄雪琴(收)
 王建兵地址：广州市白云区石井街道办广海路狮岗北街9号广州第一看守所 1109 仓 王建兵(收)
 
-在你的城市和周边“自由地”张贴雪饼的贴纸，打印下载链接：[https://drive.google.com/drive/folders/1-6Vz2dgybL50kd8MxVxnx_c0xOekJJZP](https://drive.google.com/drive/folders/1-6Vz2dgybL50kd8MxVxnx_c0xOekJJZP)
+### 在你的城市和周边“自由地”张贴雪饼的贴纸
 
-写下你对雪饼的思念和对雪饼案的愤怒，投稿至 freexuebing@protonmail.com，稿件将不定期发布在“释放雪饼”网站 [https://free-xueq-jianb.github.io/](https://free-xueq-jianb.github.io/)
+打印下载链接：[https://drive.google.com/drive/folders/1-6Vz2dgybL50kd8MxVxnx_c0xOekJJZP](https://drive.google.com/drive/folders/1-6Vz2dgybL50kd8MxVxnx_c0xOekJJZP)
+
+### 写下你对雪饼的思念和对雪饼案的愤怒
+
+投稿至 freexuebing@protonmail.com，稿件将不定期发布在“释放雪饼”网站 [https://free-xueq-jianb.github.io/](https://free-xueq-jianb.github.io/)
 
 ## 附录三、雪饼消失三年时间轴
 
