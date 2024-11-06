@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 案件更新：雪饼两人已移送监狱服刑 Case Update: HuangXueqin and WangJianbing Have Been Transferred to Prison to Serve Their Sentences
+title: 案件更新：雪饼两人已移送监狱服刑 Case Update：HuangXueqin and WangJianbing Have Been Transferred to Prison to Serve Their Sentences
 date: 2024-11-06T12:11:24.124Z
 cover: https://free-xueq-jianb.github.io/images/uploads/1106/11.png
 categories:
