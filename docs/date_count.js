@@ -52,7 +52,7 @@ var styles = `
     padding-left:3px;
     padding-right:3px;
     border-radius: 5px;
-    background: #f6416c;
+    background: #e84a5f;
     display: inline-block;
     font-weight:800;
     width: 100%;
