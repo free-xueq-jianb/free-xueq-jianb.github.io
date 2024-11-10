@@ -13,6 +13,34 @@ if (t < 0) {
         document.getElementById("day").innerHTML ='0';}
 }, 1000);
 
+//倒计时
+
+var endHuang = new Date("2026-09-19T00:00:00.000+08:00").getTime();
+var endWang = new Date("2025-03-19T00:00:00.000+08:00").getTime();
+
+var x = setInterval(function() {
+var now = new Date().getTime();
+
+// 计算黄雪琴的倒计时
+var tHuang = endHuang - now;
+var daysHuang = Math.floor(tHuang / (1000 * 60 * 60 * 24));
+if (tHuang > 0) {
+  document.getElementById("huang").innerHTML = daysHuang;
+} else {
+  document.getElementById("huang").innerHTML = "关押五年已出狱";
+}
+
+// 计算王建兵的倒计时
+var tWang = endWang - now;
+var daysWang = Math.floor(tWang / (1000 * 60 * 60 * 24));
+if (tWang > 0) {
+  document.getElementById("wang").innerHTML = daysWang;
+} else {
+  document.getElementById("wang").innerHTML = "关押三年半已出狱";
+}
+
+}, 1000);
+
 var styles = `
 #clockdiv{
     font-family: sans-serif;
