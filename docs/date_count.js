@@ -52,11 +52,14 @@ var styles = `
     padding-left:3px;
     padding-right:3px;
     border-radius: 5px;
-    background: #db0000;
+    background: #f6416c;
     display: inline-block;
     font-weight:800;
     width: 100%;
     margin-bottom: 5px;
+}
+.chuyu {
+    background: #00b8a9;
 }
 #clockdiv > div{
 	padding-top:7px;
