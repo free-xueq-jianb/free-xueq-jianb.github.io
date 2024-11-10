@@ -63,7 +63,7 @@ var styles = `
 	padding-left:10px;
     display: inline-block;
     font-size:22px;
-    padding-right:15px;
+    padding-right:10px;
 }
 #day{
     border-radius: 7px;
