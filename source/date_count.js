@@ -65,7 +65,7 @@ var styles = `
     font-size:22px;
     padding-right:15px;
 }
-#clockdiv > span{
+#day{
     border-radius: 7px;
     background: #fff;
     color: #db0000;
@@ -77,6 +77,26 @@ var styles = `
 }
 #smalltext{
     padding-right:8px !important;
+}
+#wang{
+    border-radius: 7px;
+    background: #fff;
+    color: #db0000;
+    display: inline-block;
+    margin-bottom:3px;
+    padding-left:10px;
+    padding-right:10px;
+    font-size:25px;
+}
+#huang{
+    border-radius: 7px;
+    background: #fff;
+    color: #db0000;
+    display: inline-block;
+    margin-bottom:3px;
+    padding-left:10px;
+    padding-right:10px;
+    font-size:25px;
 }
 `
 var styleSheet = document.createElement("style")
