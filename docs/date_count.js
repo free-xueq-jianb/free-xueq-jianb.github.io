@@ -52,7 +52,7 @@ var styles = `
     padding-left:3px;
     padding-right:3px;
     border-radius: 5px;
-    background: #e84a5f;
+    background: #B71C1C;
     display: inline-block;
     font-weight:800;
     width: 100%;
@@ -71,7 +71,7 @@ var styles = `
 #day{
     border-radius: 7px;
     background: #fff;
-    color: #e84a5f;
+    color: #B71C1C;
     display: inline-block;
     margin-bottom:3px;
     padding-left:10px;
