@@ -56,6 +56,7 @@ var styles = `
     display: inline-block;
     font-weight:800;
     width: 100%;
+    margin-bottom: 5px;
 }
 #clockdiv > div{
 	padding-top:7px;
