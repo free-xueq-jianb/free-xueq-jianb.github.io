@@ -59,7 +59,7 @@ var styles = `
     margin-bottom: 5px;
 }
 .chuyu {
-    background: #00b8a9;
+    background: #1B5E20 !important;
 }
 #clockdiv > div{
 	padding-top:7px;
@@ -71,7 +71,7 @@ var styles = `
 #day{
     border-radius: 7px;
     background: #fff;
-    color: #db0000;
+    color: #e84a5f;
     display: inline-block;
     margin-bottom:3px;
     padding-left:10px;
