@@ -2,7 +2,7 @@
 layout: post
 title: 煎饼（王建兵）释放倒计时7天 Wang Jianbing is to be released in 7 days!
 date: 2025-03-11T12:11:24.124Z
-cover: https://free-xueq-jianb.github.io/images/uploads/0311/cn.png
+cover: https://free-xueq-jianb.github.io/images/uploads/0311/cn.jpg
 categories:
   - 案件通报
 tags:
@@ -23,6 +23,6 @@ Wang was sentenced to 3.5 years in prison, deprived of his political rights for 
 
 Again, the #XueBing case is an extremely malicious political suppression against youth activists, attempting to erase the traces of activism, silence the voices of resistance, and to stigmatize XueBing's efforts to rebuild the activism community with political charges. On the contrary, over the past 3-year long trial, we have witnessed the resilience of XueBing and felt the resilience of the activist community, despite the difficulty to connect with them. The #XueBing case is not a repudiation of Huang and Wang, but a spark for future resistance.
 
-![](https://free-xueq-jianb.github.io/images/uploads/0311/cn.png)
+![](https://free-xueq-jianb.github.io/images/uploads/0311/cn.jpg)
 
-![](https://free-xueq-jianb.github.io/images/uploads/0311/en.png)
+![](https://free-xueq-jianb.github.io/images/uploads/0311/en.jpg)
