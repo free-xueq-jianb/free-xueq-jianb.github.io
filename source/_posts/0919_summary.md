@@ -8,7 +8,7 @@ categories:
 ---
 本文为**“0919雪饼”被捕事件**之综述，系统性讲述“雪饼”（黄雪琴和王建兵）两人遭遇的政治打压和当下的案情进展。希望民间社群伙伴、各界媒体、和国际社群可以持续**关注、支持和声援**雪饼二人，促使中国广州警察无条件释放两人。本文档将持续更新（2021.11.27）。
 
-This is an overview of the "0919 Huang&Wang" case (aka the Xuebing Case, an abbreviation of Huang Xueqin and Wang Jianbing's first names). It will provide a comprehensive account of the secret arrest of "Xuebing", as well as the ongoing progress of the case. We hope that friends from civil society community, media, and international community could continue to stay tuned, and support Huang and Wang. We urge the Guangzhou police to release them unconditionally. This document will be continuously updated (by 2021.11.19).
+This is an overview of the "0919 Huang&Wang" case (aka the Xuebing Case, an abbreviation of Huang Xueqin and Wang Jianbing's first names). It will provide a comprehensive account of the secret arrest of "Xuebing", as well as the ongoing progress of the case. We hope that friends from civil society community, media, and international community could continue to stay tuned, and support Huang and Wang. We urge the Guangzhou police to release them unconditionally. This document will be continuously updated.
 
 <!--more-->
 
