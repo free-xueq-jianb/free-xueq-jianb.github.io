@@ -50,3 +50,5 @@ We hope that the University of Sussex and the Chevening Awards Programme will ta
 这已经不是第一次志奋领项目让奖学金获得者寒心了。根据英国《卫报》报道，今年8月份，当阿富汗政局发生剧变的时候，英国外交部却在第一时间宣布35位阿富汗的志奋领奖学金获得者将延期一年入学，无视这些奖学金获得者正在遭受着塔利班的威胁。经过多方媒体的报道和国际社会的强烈谴责， 英国政府才同意帮助这些奖学金获得者入学。尽管如此，依然有许多身处阿富汗的前志奋领学者得不到英国政府的帮助，他们感到自己被“抛弃”。志奋领项目是否真正如它所宣传的那样关注社会正义，关注具体的志奋领学者，真的应该打上一个硕大的问号。 
 
 希望英国萨赛克斯大学和志奋领项目能够切实地用行动支持和声援黄雪琴和王建兵，公开透明地和有关部门进行交涉，让关注黄雪琴和王建兵的人能看到你们的努力。不要让你们的学生、教职工、校友和社会各界为你们的不作为而感到寒心和耻辱。 
+
+[Source](https://nuvoices.com/2022/04/06/letter-by-chinese-feminists-free-detained-journalist-sophia-huang-xueqin-and-activist-wang-jianbing/)
