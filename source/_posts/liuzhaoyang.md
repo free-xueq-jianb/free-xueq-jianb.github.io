@@ -11,7 +11,7 @@ tags:
 Scroll down for the English version.
 
 
-“雪饼案声援组”近日收到一些社群伙伴的信息，刘昭阳再次声称因受“雪饼案”、以及作为黄雪琴/王建兵两人朋友受牵连而流亡海外，并假以主张自己的政治难民处境。这一虚假陈述已造成中国行动者社群和国际人权团体的极大困惑，也破坏了社群信任，因此，雪饼案声援组在此作出如下声明：
+“[雪饼案声援组](https://x.com/FreeXueBing)”近日收到一些社群伙伴的信息，刘昭阳[再次声称](https://www.instagram.com/p/DKMWLrusswN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)因受“雪饼案”、以及作为黄雪琴/王建兵两人朋友受牵连而流亡海外，并假以主张自己的政治难民处境。这一虚假陈述已造成中国行动者社群和国际人权团体的极大困惑，也破坏了社群信任，因此，雪饼案声援组在此作出如下声明：
 
 
 1 刘昭阳曾经参加过“夜航船”活动（“雪饼案”的核心犯罪事件），但并非“雪饼案”直接受害者。
@@ -32,7 +32,7 @@ Scroll down for the English version.
 我们想指出，这已经不是雪饼案声援组第一次收到关于刘昭阳的咨询信息。早在2022年初，就有欧洲人权团体告知并向声援组确认刘的行动背景：刘曾向多个人权团体谎称自己是“雪饼案”受害者和雪饼“亲密朋友”，并希望以此来寻求人权组织的帮助，包括工作和支持其难民庇护申请等。声援组当时忙于处理声援事宜，未做公开声明，仅向该团体澄清相关事实。但之后，刘昭阳并未停止他/ta的虚伪表演，仍一直以“雪饼案”相关人身份在海外主张自己的政治身份，这显然是在吃“政治血馒头”。我们认为这是极为不诚实、且有违人权准则的行为。刘的这一做法不仅破坏了行动社群的信任，同时——基于其性骚扰且不承认不道歉不认错的前科——将有可能继续对新社群的成员产生潜在伤害。因此，雪饼声援组认为有必要对相关事实做出澄清，以免有更多受害者。
 
 
-此外，我们注意到，早在2023年7月，Instagram账号“北方广场northern_square” 就有收到关于刘昭阳长期对于女性友人进行性骚扰和精神伤害等行为的投稿。尽管雪饼案声援组并不了解其中的细节，但是该文档中描述的行为与其在夜航船期间的行为表现有很强相似度，也希望海内外社群和相关人权团体引起特别关注。
+此外，我们注意到，早在2023年7月，Instagram账号“北方广场northern_square” 就有收到关于刘昭阳长期对于女性友人进行性骚扰和精神伤害等行为的[投稿](https://www.instagram.com/p/CvXXlN6rcx6/?igsh=dGUyMDhkZjJvYTVp)。尽管雪饼案声援组并不了解其中的细节，但是该文档中描述的行为与其在夜航船期间的行为表现有很强相似度，也希望海内外社群和相关人权团体引起特别关注。
 
 
 雪饼案声援组
@@ -44,10 +44,10 @@ English version.
 
 Statement on Liu Zhaoyang’s (aka Liu Zhongkui, Instagram @siamoqueer /Pie Formosa)  Exploitation of the XueBing Case and His/their Harm to the Chinese Activist Community
 
-The FreeXueBing team has recently received inquiries from community members regarding statements made by Liu Zhaoyang (aka Liu Zhongkui, Instagram @siamoqueer /Pie Formosa) . Liu has once again claimed that he/they was forced into exile due to the “XueBing Case” and his/their alleged friendship with Huang Xueqin and Wang Jianbing. He/they has used these claims to justify his/their status as a political refugee. These false statements have caused significant confusion among Chinese activist communities and international human rights organizations, and have undermined trust within these circles. The FreeXueBing team would therefore like to issue the following clarifications:
+The FreeXueBing team has recently received inquiries from community members regarding [statements](https://www.instagram.com/p/DKMWLrusswN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) made by Liu Zhaoyang (aka Liu Zhongkui, Instagram @[siamoqueer /Pie Formosa](https://www.instagram.com/siamoqueer)) . Liu has once again claimed that he/they was forced into exile due to the “XueBing Case” and his/their alleged friendship with Huang Xueqin and Wang Jianbing. He/they has used these claims to justify his/their status as a political refugee. These false statements have caused significant confusion among Chinese activist communities and international human rights organizations, and have undermined trust within these circles. The FreeXueBing team would therefore like to issue the following clarifications:
 
 1. Liu Zhaoyang was not a direct victim of the “XueBing Case”.
-While Liu Zhaoyang once participated in the “Night Sailing Boat” gatherings—an event series central to the criminal charges in the “XueBing Case”—he was not a victim of the case.
+While Liu Zhaoyang once participated in the “[Night Sailing Boat](https://labourreview.org/subverting-the-status-quo/)” gatherings—an event series central to the criminal charges in the “XueBing Case”—he was not a victim of the case.
 
 The “XueBing Case” originated from the in-person weekly gatherings, “Night Sailing Boat”, organized by Wang Jianbing, Huang Xueqin, and Chen Weixiang. Liu was introduced to and attended the gatherings by a friend in December 2020. In April 2021, following serious allegations of sexual assault and harassment made by multiple individuals against Liu, Huang Xueqin and Wang Jianbing engaged him/them in an attempt to address the concerns and uphold community accountability. Liu denied all accusations, claimed to be a victim of defamation, and refused to take any responsibility. As a result, he/they was excluded from the community by other participants. In fact, he/they is the only person ever expelled from the Night Sailing Boat circle.
 
@@ -66,7 +66,7 @@ However, Liu has continued to perform this deceitful narrative and has repeatedl
 
 Therefore, the FreeXueBing team deems it necessary to issue this public statement to prevent further harm and misinformation.
 
-Additionally, we note that in July 2023, the Instagram account @northern_square shared anonymous submissions describing Liu Zhaoyang’s long-term pattern of sexual harassment and psychological abuse toward female acquaintances. While the FreeXueBing team cannot independently verify the details of these incidents, the described behaviors strongly resemble those reported during his/their involvement in the Night Sailing Boat community. We urge both domestic and international communities and human rights organizations to treat these reports with the utmost seriousness.
+Additionally, we note that in July 2023, the Instagram account @northern_square shared [anonymous submissions](https://www.instagram.com/p/CvXXlN6rcx6/?igsh=dGUyMDhkZjJvYTVp) describing Liu Zhaoyang’s long-term pattern of sexual harassment and psychological abuse toward female acquaintances. While the FreeXueBing team cannot independently verify the details of these incidents, the described behaviors strongly resemble those reported during his/their involvement in the Night Sailing Boat community. We urge both domestic and international communities and human rights organizations to treat these reports with the utmost seriousness.
 
 In solidarity,
 
