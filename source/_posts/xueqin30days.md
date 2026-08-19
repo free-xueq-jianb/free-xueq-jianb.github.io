@@ -2,7 +2,7 @@
 layout: post
 title: 黄雪琴释放倒计时30天  30 Days Until Huang (Sophia) Xueqin's Release
 date: 2026-08-19T12:11:24.124Z
-cover: https://i.meee.com.tw/pwLop57.jpg
+cover: https://i.meee.com.tw/fgANAiv.jpg
 categories: 
 tags: 
 
