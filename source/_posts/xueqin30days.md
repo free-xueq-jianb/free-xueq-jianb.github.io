@@ -49,3 +49,7 @@ Xueqin, we long for the day you're back among us again.
 FreeXueBing
 
 August 19, 2026
+
+![](https://i.meee.com.tw/pwLop57.jpg)
+
+![](https://i.meee.com.tw/rcTCrKF.jpg)
